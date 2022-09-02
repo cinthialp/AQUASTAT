@@ -7,6 +7,7 @@ Python Dashboard with FAO's AQUASTAT data
 
 
 ## Screenshots
+
 ---
 
 ![image](https://user-images.githubusercontent.com/110631006/188063282-938720b6-ac7e-4326-8443-28d1e2888fdb.png)
