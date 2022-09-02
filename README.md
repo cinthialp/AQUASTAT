@@ -1,6 +1,4 @@
-## AQUASTAT
-
-Python Dashboard with FAO's AQUASTAT data
+## AQUASTAT Dash
 
 *   This is the first version of a dashboard I've made using Plotly and Dash, as a personal project! It still is a work in progress. 🛠 
 *   All data used is from the **Food and Agriculture Organization of the United Nations**, and it can be directly downloaded at the [**AQUASTAT website.**](https://www.fao.org/aquastat/en/) For practical purposes, some modifications were made in the original CSV files. I've included a detailed explanation of those in the notebook file included in this repository!
