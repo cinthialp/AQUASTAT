@@ -1,0 +1,1134 @@
+Area,AreaId,VariableName,VariableId,Year,Value,Symbol,Md1,Md2,Units,Period,ISOCode
+Afghanistan,4.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",AFG
+Afghanistan,4.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",AFG
+Albania,8.0,Area salinized by irrigation,4400.0,1992.0,12.0,-,-,4779.0,· 1000 ha,"(1988, 1992)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,1997.0,9.6,I,-,0.0,· 1000 ha,"(1993, 1997)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,2002.0,7.2,I,-,0.0,· 1000 ha,"(1998, 2002)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,2007.0,4.8,I,-,0.0,· 1000 ha,"(2003, 2007)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,2012.0,2.4,I,-,0.0,· 1000 ha,"(2008, 2012)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,2017.0,0.0,-,-,7017.0,· 1000 ha,"(2013, 2017)",ALB
+Albania,8.0,Area salinized by irrigation,4400.0,2018.0,0.0,-,-,7017.0,· 1000 ha,"(2018, 2022)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,1992.0,3.0224720799,E,-,0.0,%,"(1988, 1992)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,1997.0,2.4179776639,E,-,0.0,%,"(1993, 1997)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,2002.0,2.0809248555,E,-,0.0,%,"(1998, 2002)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,2007.0,1.208988832,E,-,0.0,%,"(2003, 2007)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.6936416185,E,-,0.0,%,"(2008, 2012)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.0,E,-,0.0,%,"(2013, 2017)",ALB
+Albania,8.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.0,E,-,0.0,%,"(2018, 2022)",ALB
+Albania,8.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",ALB
+Albania,8.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",ALB
+Algeria,12.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",DZA
+Algeria,12.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",DZA
+Andorra,20.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",AND
+Andorra,20.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",AND
+Angola,24.0,Flood occurrence (WRI),4543.0,2017.0,1.7,I,-,0.0,-,"(2013, 2017)",AGO
+Angola,24.0,Flood occurrence (WRI),4543.0,2018.0,1.7,I,-,0.0,-,"(2018, 2022)",AGO
+Antigua and Barbuda,28.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",ATG
+Antigua and Barbuda,28.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",ATG
+Argentina,32.0,Area salinized by irrigation,4400.0,1997.0,584.0,-,-,0.0,· 1000 ha,"(1993, 1997)",ARG
+Argentina,32.0,Area salinized by irrigation,4400.0,2002.0,584.0,I,-,0.0,· 1000 ha,"(1998, 2002)",ARG
+Argentina,32.0,Area salinized by irrigation,4400.0,2007.0,584.0,I,-,0.0,· 1000 ha,"(2003, 2007)",ARG
+Argentina,32.0,Area salinized by irrigation,4400.0,2012.0,584.0,I,-,0.0,· 1000 ha,"(2008, 2012)",ARG
+Argentina,32.0,Area salinized by irrigation,4400.0,2017.0,584.0,I,-,0.0,· 1000 ha,"(2013, 2017)",ARG
+Argentina,32.0,Area salinized by irrigation,4400.0,2018.0,584.0,I,-,0.0,· 1000 ha,"(2018, 2022)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,1997.0,32.2176452292,E,-,0.0,%,"(1993, 1997)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,2002.0,27.3119154128,E,-,0.0,%,"(1998, 2002)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,2007.0,25.8431938432,E,-,0.0,%,"(2003, 2007)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,2012.0,24.7772592278,E,-,0.0,%,"(2008, 2012)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,2017.0,24.7772592278,E,-,0.0,%,"(2013, 2017)",ARG
+Argentina,32.0,% of area equipped for irrigation salinized,4445.0,2018.0,24.7772592278,E,-,0.0,%,"(2018, 2022)",ARG
+Argentina,32.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",ARG
+Argentina,32.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",ARG
+Armenia,51.0,Area salinized by irrigation,4400.0,1997.0,31.2836363636,I,-,0.0,· 1000 ha,"(1993, 1997)",ARM
+Armenia,51.0,Area salinized by irrigation,4400.0,2002.0,25.2427272727,I,-,0.0,· 1000 ha,"(1998, 2002)",ARM
+Armenia,51.0,Area salinized by irrigation,4400.0,2007.0,20.41,I,-,0.0,· 1000 ha,"(2003, 2007)",ARM
+Armenia,51.0,Area salinized by irrigation,4400.0,2012.0,20.41,I,-,0.0,· 1000 ha,"(2008, 2012)",ARM
+Armenia,51.0,Area salinized by irrigation,4400.0,2017.0,20.41,I,-,0.0,· 1000 ha,"(2013, 2017)",ARM
+Armenia,51.0,Area salinized by irrigation,4400.0,2018.0,20.41,I,-,0.0,· 1000 ha,"(2018, 2022)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,1997.0,10.9960057517,E,-,0.0,%,"(1993, 1997)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,2002.0,9.2295163703,E,-,0.0,%,"(1998, 2002)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,2007.0,7.9733483809,E,-,0.0,%,"(2003, 2007)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,2012.0,12.1223520095,E,-,0.0,%,"(2008, 2012)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,2017.0,20.9333333333,E,-,0.0,%,"(2013, 2017)",ARM
+Armenia,51.0,% of area equipped for irrigation salinized,4445.0,2018.0,13.1762427372,E,-,0.0,%,"(2018, 2022)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,1992.0,20.58,-,-,0.0,· 1000 hectares,"(1988, 1992)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,1997.0,29.82,-,-,0.0,· 1000 hectares,"(1993, 1997)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,2002.0,17.96,-,-,0.0,· 1000 hectares,"(1998, 2002)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,2007.0,18.72,I,-,0.0,· 1000 hectares,"(2003, 2007)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,2012.0,18.72,I,-,0.0,· 1000 hectares,"(2008, 2012)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,2017.0,18.72,I,-,0.0,· 1000 hectares,"(2013, 2017)",ARM
+Armenia,51.0,Area waterlogged by irrigation,4401.0,2018.0,18.72,I,-,0.0,· 1000 hectares,"(2018, 2022)",ARM
+Armenia,51.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",ARM
+Armenia,51.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",ARM
+Australia,36.0,Area salinized by irrigation,4400.0,1997.0,200.0,I,-,0.0,· 1000 ha,"(1993, 1997)",AUS
+Australia,36.0,Area salinized by irrigation,4400.0,2002.0,200.0,I,-,0.0,· 1000 ha,"(1998, 2002)",AUS
+Australia,36.0,Area salinized by irrigation,4400.0,2007.0,200.0,I,-,0.0,· 1000 ha,"(2003, 2007)",AUS
+Australia,36.0,Area salinized by irrigation,4400.0,2012.0,200.0,I,-,0.0,· 1000 ha,"(2008, 2012)",AUS
+Australia,36.0,Area salinized by irrigation,4400.0,2017.0,200.0,I,-,0.0,· 1000 ha,"(2013, 2017)",AUS
+Australia,36.0,Area salinized by irrigation,4400.0,2018.0,200.0,I,-,0.0,· 1000 ha,"(2018, 2022)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,1997.0,8.3556149733,E,-,0.0,%,"(1993, 1997)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,2002.0,8.02782981,E,-,0.0,%,"(1998, 2002)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,2007.0,7.9802409235,E,-,0.0,%,"(2003, 2007)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,2012.0,8.6687413854,E,-,0.0,%,"(2008, 2012)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,2017.0,8.9138476623,E,-,0.0,%,"(2013, 2017)",AUS
+Australia,36.0,% of area equipped for irrigation salinized,4445.0,2018.0,8.702462797,E,-,0.0,%,"(2018, 2022)",AUS
+Australia,36.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",AUS
+Australia,36.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",AUS
+Austria,40.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",AUT
+Austria,40.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",AUT
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,1997.0,296.95,I,-,0.0,· 1000 ha,"(1993, 1997)",AZE
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,2002.0,579.325,I,-,0.0,· 1000 ha,"(1998, 2002)",AZE
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,2007.0,542.4181818182,I,-,0.0,· 1000 ha,"(2003, 2007)",AZE
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,2012.0,425.6909090909,I,-,0.0,· 1000 ha,"(2008, 2012)",AZE
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,2017.0,270.12,-,-,7248.0,· 1000 ha,"(2013, 2017)",AZE
+Azerbaijan,31.0,Area salinized by irrigation,4400.0,2018.0,270.12,I,-,0.0,· 1000 ha,"(2018, 2022)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,1997.0,20.6072172103,E,-,0.0,%,"(1993, 1997)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,2002.0,40.6258765778,E,-,0.0,%,"(1998, 2002)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,2007.0,37.8519317389,E,-,0.0,%,"(2003, 2007)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,2012.0,29.8102877515,E,-,0.0,%,"(2008, 2012)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,2017.0,18.6830820307,E,-,0.0,%,"(2013, 2017)",AZE
+Azerbaijan,31.0,% of area equipped for irrigation salinized,4445.0,2018.0,18.6366772458,E,-,0.0,%,"(2018, 2022)",AZE
+Azerbaijan,31.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",AZE
+Azerbaijan,31.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",AZE
+Bahrain,48.0,Area salinized by irrigation,4400.0,1997.0,1.065,I,-,0.0,· 1000 ha,"(1993, 1997)",BHR
+Bahrain,48.0,Area salinized by irrigation,4400.0,2002.0,1.065,I,-,0.0,· 1000 ha,"(1998, 2002)",BHR
+Bahrain,48.0,Area salinized by irrigation,4400.0,2007.0,1.065,I,-,0.0,· 1000 ha,"(2003, 2007)",BHR
+Bahrain,48.0,Area salinized by irrigation,4400.0,2012.0,1.065,I,-,0.0,· 1000 ha,"(2008, 2012)",BHR
+Bahrain,48.0,Area salinized by irrigation,4400.0,2017.0,1.065,I,-,0.0,· 1000 ha,"(2013, 2017)",BHR
+Bahrain,48.0,Area salinized by irrigation,4400.0,2018.0,1.065,I,-,0.0,· 1000 ha,"(2018, 2022)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,1997.0,29.6657381616,E,-,0.0,%,"(1993, 1997)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,2002.0,26.3965681602,E,-,0.0,%,"(1998, 2002)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,2007.0,27.2539370079,E,-,0.0,%,"(2003, 2007)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,2012.0,28.1688708037,E,-,0.0,%,"(2008, 2012)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,2017.0,28.5522788204,E,-,0.0,%,"(2013, 2017)",BHR
+Bahrain,48.0,% of area equipped for irrigation salinized,4445.0,2018.0,28.5522788204,E,-,0.0,%,"(2018, 2022)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,1997.0,1.86,I,-,0.0,· 1000 hectares,"(1993, 1997)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,2002.0,1.86,I,-,0.0,· 1000 hectares,"(1998, 2002)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,2007.0,1.86,I,-,0.0,· 1000 hectares,"(2003, 2007)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,2012.0,1.86,I,-,0.0,· 1000 hectares,"(2008, 2012)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,2017.0,1.86,I,-,0.0,· 1000 hectares,"(2013, 2017)",BHR
+Bahrain,48.0,Area waterlogged by irrigation,4401.0,2018.0,1.86,I,-,0.0,· 1000 hectares,"(2018, 2022)",BHR
+Bahrain,48.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",BHR
+Bahrain,48.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",BHR
+Bangladesh,50.0,Area salinized by irrigation,4400.0,1992.0,100.0,I,-,0.0,· 1000 ha,"(1988, 1992)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,1997.0,100.0,I,-,0.0,· 1000 ha,"(1993, 1997)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,2002.0,100.0,I,-,0.0,· 1000 ha,"(1998, 2002)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,2007.0,100.0,I,-,0.0,· 1000 ha,"(2003, 2007)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,2012.0,100.0,I,-,0.0,· 1000 ha,"(2008, 2012)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,2017.0,100.0,I,-,0.0,· 1000 ha,"(2013, 2017)",BGD
+Bangladesh,50.0,Area salinized by irrigation,4400.0,2018.0,100.0,I,-,0.0,· 1000 ha,"(2018, 2022)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,1992.0,3.2258064516,I,-,0.0,%,"(1988, 1992)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,1997.0,2.5311033664,E,-,0.0,%,"(1993, 1997)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,2002.0,2.2469579646,E,-,0.0,%,"(1998, 2002)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,2007.0,2.0201706267,E,-,0.0,%,"(2003, 2007)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,2012.0,1.9801980198,E,-,0.0,%,"(2008, 2012)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,2017.0,1.9801980198,E,-,0.0,%,"(2013, 2017)",BGD
+Bangladesh,50.0,% of area equipped for irrigation salinized,4445.0,2018.0,1.9801980198,E,-,0.0,%,"(2018, 2022)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,1997.0,770.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,2002.0,770.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,2007.0,770.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,2012.0,770.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,2017.0,770.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",BGD
+Bangladesh,50.0,Area waterlogged by irrigation,4401.0,2018.0,770.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",BGD
+Bangladesh,50.0,Flood occurrence (WRI),4543.0,2017.0,4.9,I,-,0.0,-,"(2013, 2017)",BGD
+Bangladesh,50.0,Flood occurrence (WRI),4543.0,2018.0,4.9,I,-,0.0,-,"(2018, 2022)",BGD
+Barbados,52.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",BRB
+Barbados,52.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",BRB
+Belarus,112.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",BLR
+Belarus,112.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",BLR
+Belgium,56.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",BEL
+Belgium,56.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",BEL
+Belize,84.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",BLZ
+Belize,84.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",BLZ
+Benin,204.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",BEN
+Benin,204.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",BEN
+Bhutan,64.0,Flood occurrence (WRI),4543.0,2017.0,4.7,I,-,0.0,-,"(2013, 2017)",BTN
+Bhutan,64.0,Flood occurrence (WRI),4543.0,2018.0,4.7,I,-,0.0,-,"(2018, 2022)",BTN
+Bolivia (Plurinational State of),68.0,Area salinized by irrigation,4400.0,2002.0,21.91,I,-,0.0,· 1000 ha,"(1998, 2002)",BOL
+Bolivia (Plurinational State of),68.0,Area salinized by irrigation,4400.0,2007.0,21.91,I,-,0.0,· 1000 ha,"(2003, 2007)",BOL
+Bolivia (Plurinational State of),68.0,Area salinized by irrigation,4400.0,2012.0,21.91,I,-,0.0,· 1000 ha,"(2008, 2012)",BOL
+Bolivia (Plurinational State of),68.0,Area salinized by irrigation,4400.0,2017.0,21.91,I,-,0.0,· 1000 ha,"(2013, 2017)",BOL
+Bolivia (Plurinational State of),68.0,Area salinized by irrigation,4400.0,2018.0,21.91,I,-,0.0,· 1000 ha,"(2018, 2022)",BOL
+Bolivia (Plurinational State of),68.0,% of area equipped for irrigation salinized,4445.0,2002.0,9.1875458643,E,-,0.0,%,"(1998, 2002)",BOL
+Bolivia (Plurinational State of),68.0,% of area equipped for irrigation salinized,4445.0,2007.0,8.1704190556,E,-,0.0,%,"(2003, 2007)",BOL
+Bolivia (Plurinational State of),68.0,% of area equipped for irrigation salinized,4445.0,2012.0,7.3721399731,E,-,0.0,%,"(2008, 2012)",BOL
+Bolivia (Plurinational State of),68.0,% of area equipped for irrigation salinized,4445.0,2017.0,7.3721399731,E,-,0.0,%,"(2013, 2017)",BOL
+Bolivia (Plurinational State of),68.0,% of area equipped for irrigation salinized,4445.0,2018.0,7.3721399731,E,-,0.0,%,"(2018, 2022)",BOL
+Bolivia (Plurinational State of),68.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",BOL
+Bolivia (Plurinational State of),68.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",BOL
+Bosnia and Herzegovina,70.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",BIH
+Bosnia and Herzegovina,70.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",BIH
+Botswana,72.0,Flood occurrence (WRI),4543.0,2017.0,2.1,I,-,0.0,-,"(2013, 2017)",BWA
+Botswana,72.0,Flood occurrence (WRI),4543.0,2018.0,2.1,I,-,0.0,-,"(2018, 2022)",BWA
+Brazil,76.0,Area salinized by irrigation,4400.0,2002.0,15.0,I,-,0.0,· 1000 ha,"(1998, 2002)",BRA
+Brazil,76.0,Area salinized by irrigation,4400.0,2007.0,15.0,I,-,0.0,· 1000 ha,"(2003, 2007)",BRA
+Brazil,76.0,Area salinized by irrigation,4400.0,2012.0,15.0,I,-,0.0,· 1000 ha,"(2008, 2012)",BRA
+Brazil,76.0,Area salinized by irrigation,4400.0,2017.0,15.0,I,-,0.0,· 1000 ha,"(2013, 2017)",BRA
+Brazil,76.0,Area salinized by irrigation,4400.0,2018.0,15.0,I,-,0.0,· 1000 ha,"(2018, 2022)",BRA
+Brazil,76.0,% of area equipped for irrigation salinized,4445.0,2002.0,0.4011177816,E,-,0.0,%,"(1998, 2002)",BRA
+Brazil,76.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.3124544337,E,-,0.0,%,"(2003, 2007)",BRA
+Brazil,76.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.2937777865,E,-,0.0,%,"(2008, 2012)",BRA
+Brazil,76.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.2907540221,E,-,0.0,%,"(2013, 2017)",BRA
+Brazil,76.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.2657218778,E,-,0.0,%,"(2018, 2022)",BRA
+Brazil,76.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",BRA
+Brazil,76.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",BRA
+Brunei Darussalam,96.0,Flood occurrence (WRI),4543.0,2017.0,2.3,I,-,0.0,-,"(2013, 2017)",BRN
+Brunei Darussalam,96.0,Flood occurrence (WRI),4543.0,2018.0,2.3,I,-,0.0,-,"(2018, 2022)",BRN
+Bulgaria,100.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",BGR
+Bulgaria,100.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",BGR
+Burkina Faso,854.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",BFA
+Burkina Faso,854.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",BFA
+Burundi,108.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",BDI
+Burundi,108.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",BDI
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,1987.0,0.0,I,-,0.0,· 1000 hectares,"(1983, 1987)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,1992.0,0.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,1997.0,0.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,2002.0,0.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,2007.0,0.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,2012.0,0.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,2017.0,0.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",CPV
+Cabo Verde,132.0,Area waterlogged by irrigation,4401.0,2018.0,0.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",CPV
+Cambodia,116.0,Flood occurrence (WRI),4543.0,2017.0,3.9,I,-,0.0,-,"(2013, 2017)",KHM
+Cambodia,116.0,Flood occurrence (WRI),4543.0,2018.0,3.9,I,-,0.0,-,"(2018, 2022)",KHM
+Cameroon,120.0,Flood occurrence (WRI),4543.0,2017.0,2.2,I,-,0.0,-,"(2013, 2017)",CMR
+Cameroon,120.0,Flood occurrence (WRI),4543.0,2018.0,2.2,I,-,0.0,-,"(2018, 2022)",CMR
+Canada,124.0,Flood occurrence (WRI),4543.0,2017.0,1.9,I,-,0.0,-,"(2013, 2017)",CAN
+Canada,124.0,Flood occurrence (WRI),4543.0,2018.0,1.9,I,-,0.0,-,"(2018, 2022)",CAN
+Central African Republic,140.0,Flood occurrence (WRI),4543.0,2017.0,2.3,I,-,0.0,-,"(2013, 2017)",CAF
+Central African Republic,140.0,Flood occurrence (WRI),4543.0,2018.0,2.3,I,-,0.0,-,"(2018, 2022)",CAF
+Chad,148.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",TCD
+Chad,148.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",TCD
+Chile,152.0,Area salinized by irrigation,4400.0,1997.0,33.6,I,-,0.0,· 1000 ha,"(1993, 1997)",CHL
+Chile,152.0,Area salinized by irrigation,4400.0,2002.0,33.6,I,-,0.0,· 1000 ha,"(1998, 2002)",CHL
+Chile,152.0,Area salinized by irrigation,4400.0,2007.0,33.6,I,-,0.0,· 1000 ha,"(2003, 2007)",CHL
+Chile,152.0,Area salinized by irrigation,4400.0,2012.0,33.6,I,-,0.0,· 1000 ha,"(2008, 2012)",CHL
+Chile,152.0,Area salinized by irrigation,4400.0,2017.0,33.6,I,-,0.0,· 1000 ha,"(2013, 2017)",CHL
+Chile,152.0,Area salinized by irrigation,4400.0,2018.0,33.6,I,-,0.0,· 1000 ha,"(2018, 2022)",CHL
+Chile,152.0,% of area equipped for irrigation salinized,4445.0,2007.0,3.0297565374,E,-,0.0,%,"(2003, 2007)",CHL
+Chile,152.0,% of area equipped for irrigation salinized,4445.0,2012.0,3.031876666,E,-,0.0,%,"(2008, 2012)",CHL
+Chile,152.0,% of area equipped for irrigation salinized,4445.0,2017.0,3.0309618162,E,-,0.0,%,"(2013, 2017)",CHL
+Chile,152.0,% of area equipped for irrigation salinized,4445.0,2018.0,3.0309618162,E,-,0.0,%,"(2018, 2022)",CHL
+Chile,152.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",CHL
+Chile,152.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",CHL
+China,156.0,Area salinized by irrigation,4400.0,2002.0,6700.0,I,-,0.0,· 1000 ha,"(1998, 2002)",CHN
+China,156.0,Area salinized by irrigation,4400.0,2007.0,6700.0,I,-,0.0,· 1000 ha,"(2003, 2007)",CHN
+China,156.0,Area salinized by irrigation,4400.0,2012.0,6700.0,I,-,0.0,· 1000 ha,"(2008, 2012)",CHN
+China,156.0,Area salinized by irrigation,4400.0,2017.0,6700.0,I,-,0.0,· 1000 ha,"(2013, 2017)",CHN
+China,156.0,Area salinized by irrigation,4400.0,2018.0,6700.0,I,-,0.0,· 1000 ha,"(2018, 2022)",CHN
+China,156.0,% of area equipped for irrigation salinized,4445.0,2002.0,11.5020202667,E,-,0.0,%,"(1998, 2002)",CHN
+China,156.0,% of area equipped for irrigation salinized,4445.0,2007.0,10.4805874492,E,-,0.0,%,"(2003, 2007)",CHN
+China,156.0,% of area equipped for irrigation salinized,4445.0,2012.0,9.7279392014,E,-,0.0,%,"(2008, 2012)",CHN
+China,156.0,% of area equipped for irrigation salinized,4445.0,2017.0,9.5901979589,E,-,0.0,%,"(2013, 2017)",CHN
+China,156.0,% of area equipped for irrigation salinized,4445.0,2018.0,9.5901979589,E,-,0.0,%,"(2018, 2022)",CHN
+China,156.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",CHN
+China,156.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",CHN
+Colombia,170.0,Area salinized by irrigation,4400.0,2002.0,300.0,I,-,0.0,· 1000 ha,"(1998, 2002)",COL
+Colombia,170.0,Area salinized by irrigation,4400.0,2007.0,300.0,I,-,0.0,· 1000 ha,"(2003, 2007)",COL
+Colombia,170.0,Area salinized by irrigation,4400.0,2012.0,300.0,I,-,0.0,· 1000 ha,"(2008, 2012)",COL
+Colombia,170.0,Area salinized by irrigation,4400.0,2017.0,300.0,I,-,0.0,· 1000 ha,"(2013, 2017)",COL
+Colombia,170.0,Area salinized by irrigation,4400.0,2018.0,300.0,I,-,0.0,· 1000 ha,"(2018, 2022)",COL
+Colombia,170.0,% of area equipped for irrigation salinized,4445.0,2002.0,31.3303341902,E,-,0.0,%,"(1998, 2002)",COL
+Colombia,170.0,% of area equipped for irrigation salinized,4445.0,2007.0,29.1414481058,E,-,0.0,%,"(2003, 2007)",COL
+Colombia,170.0,% of area equipped for irrigation salinized,4445.0,2012.0,27.5988960442,E,-,0.0,%,"(2008, 2012)",COL
+Colombia,170.0,% of area equipped for irrigation salinized,4445.0,2017.0,27.5988960442,E,-,0.0,%,"(2013, 2017)",COL
+Colombia,170.0,% of area equipped for irrigation salinized,4445.0,2018.0,27.5988960442,E,-,0.0,%,"(2018, 2022)",COL
+Colombia,170.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",COL
+Colombia,170.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",COL
+Comoros,174.0,Flood occurrence (WRI),4543.0,2017.0,1.6,I,-,0.0,-,"(2013, 2017)",COM
+Comoros,174.0,Flood occurrence (WRI),4543.0,2018.0,1.6,I,-,0.0,-,"(2018, 2022)",COM
+Congo,178.0,Flood occurrence (WRI),4543.0,2017.0,1.7,I,-,0.0,-,"(2013, 2017)",COG
+Congo,178.0,Flood occurrence (WRI),4543.0,2018.0,1.7,I,-,0.0,-,"(2018, 2022)",COG
+Costa Rica,188.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",CRI
+Costa Rica,188.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",CRI
+Côte d'Ivoire,384.0,Flood occurrence (WRI),4543.0,2017.0,2.3,I,-,0.0,-,"(2013, 2017)",CIV
+Côte d'Ivoire,384.0,Flood occurrence (WRI),4543.0,2018.0,2.3,I,-,0.0,-,"(2018, 2022)",CIV
+Croatia,191.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",HRV
+Croatia,191.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",HRV
+Cuba,192.0,Area salinized by irrigation,4400.0,2002.0,400.0,I,-,0.0,· 1000 ha,"(1998, 2002)",CUB
+Cuba,192.0,Area salinized by irrigation,4400.0,2007.0,400.0,I,-,0.0,· 1000 ha,"(2003, 2007)",CUB
+Cuba,192.0,Area salinized by irrigation,4400.0,2012.0,400.0,I,-,0.0,· 1000 ha,"(2008, 2012)",CUB
+Cuba,192.0,Area salinized by irrigation,4400.0,2017.0,400.0,I,-,0.0,· 1000 ha,"(2013, 2017)",CUB
+Cuba,192.0,Area salinized by irrigation,4400.0,2018.0,400.0,I,-,0.0,· 1000 ha,"(2018, 2022)",CUB
+Cuba,192.0,% of area equipped for irrigation salinized,4445.0,2002.0,52.2950486646,E,-,0.0,%,"(1998, 2002)",CUB
+Cuba,192.0,% of area equipped for irrigation salinized,4445.0,2007.0,60.6546267233,E,-,0.0,%,"(2003, 2007)",CUB
+Cuba,192.0,% of area equipped for irrigation salinized,4445.0,2012.0,62.5889937255,E,-,0.0,%,"(2008, 2012)",CUB
+Cuba,192.0,% of area equipped for irrigation salinized,4445.0,2017.0,62.5889937255,E,-,0.0,%,"(2013, 2017)",CUB
+Cuba,192.0,% of area equipped for irrigation salinized,4445.0,2018.0,62.5889937255,E,-,0.0,%,"(2018, 2022)",CUB
+Cuba,192.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",CUB
+Cuba,192.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",CUB
+Cyprus,196.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",CYP
+Cyprus,196.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",CYP
+Czechia,203.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",CZE
+Czechia,203.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",CZE
+Democratic People's Republic of Korea,408.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",PRK
+Democratic People's Republic of Korea,408.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",PRK
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,1997.0,2.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",COD
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,2002.0,2.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",COD
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,2007.0,2.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",COD
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,2012.0,2.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",COD
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,2017.0,2.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",COD
+Democratic Republic of the Congo,180.0,Area waterlogged by irrigation,4401.0,2018.0,2.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",COD
+Democratic Republic of the Congo,180.0,Flood occurrence (WRI),4543.0,2017.0,1.9,I,-,0.0,-,"(2013, 2017)",COD
+Democratic Republic of the Congo,180.0,Flood occurrence (WRI),4543.0,2018.0,1.9,I,-,0.0,-,"(2018, 2022)",COD
+Denmark,208.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",DNK
+Denmark,208.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",DNK
+Djibouti,262.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",DJI
+Djibouti,262.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",DJI
+Dominica,212.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",DMA
+Dominica,212.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",DMA
+Dominican Republic,214.0,Area salinized by irrigation,4400.0,2007.0,50.34,I,-,0.0,· 1000 ha,"(2003, 2007)",DOM
+Dominican Republic,214.0,Area salinized by irrigation,4400.0,2012.0,50.34,I,-,0.0,· 1000 ha,"(2008, 2012)",DOM
+Dominican Republic,214.0,Area salinized by irrigation,4400.0,2017.0,50.34,I,-,0.0,· 1000 ha,"(2013, 2017)",DOM
+Dominican Republic,214.0,Area salinized by irrigation,4400.0,2018.0,50.34,I,-,0.0,· 1000 ha,"(2018, 2022)",DOM
+Dominican Republic,214.0,% of area equipped for irrigation salinized,4445.0,2007.0,17.4247144341,E,-,0.0,%,"(2003, 2007)",DOM
+Dominican Republic,214.0,% of area equipped for irrigation salinized,4445.0,2012.0,16.2334730732,E,-,0.0,%,"(2008, 2012)",DOM
+Dominican Republic,214.0,% of area equipped for irrigation salinized,4445.0,2017.0,16.2334730732,E,-,0.0,%,"(2013, 2017)",DOM
+Dominican Republic,214.0,% of area equipped for irrigation salinized,4445.0,2018.0,16.2334730732,E,-,0.0,%,"(2018, 2022)",DOM
+Dominican Republic,214.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",DOM
+Dominican Republic,214.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",DOM
+Ecuador,218.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",ECU
+Ecuador,218.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",ECU
+Egypt,818.0,Area salinized by irrigation,4400.0,1972.0,1210.0,-,-,5050.0,· 1000 ha,"(1968, 1972)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,1977.0,1106.6666666667,I,-,0.0,· 1000 ha,"(1973, 1977)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,1982.0,1003.3333333333,I,-,0.0,· 1000 ha,"(1978, 1982)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,1987.0,900.0,-,-,6033.0,· 1000 ha,"(1983, 1987)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,1992.0,900.0,I,-,0.0,· 1000 ha,"(1988, 1992)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,1997.0,900.0,I,-,0.0,· 1000 ha,"(1993, 1997)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,2002.0,900.0,I,-,0.0,· 1000 ha,"(1998, 2002)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,2007.0,900.0,I,-,0.0,· 1000 ha,"(2003, 2007)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,2012.0,900.0,I,-,0.0,· 1000 ha,"(2008, 2012)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,2017.0,900.0,I,-,0.0,· 1000 ha,"(2013, 2017)",EGY
+Egypt,818.0,Area salinized by irrigation,4400.0,2018.0,900.0,I,-,0.0,· 1000 ha,"(2018, 2022)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,1997.0,27.0729163881,E,-,0.0,%,"(1993, 1997)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,2002.0,26.2981036145,E,-,0.0,%,"(1998, 2002)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,2007.0,25.4265120829,E,-,0.0,%,"(2003, 2007)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,2012.0,24.3506493506,E,-,0.0,%,"(2008, 2012)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,2017.0,23.5417211614,E,-,0.0,%,"(2013, 2017)",EGY
+Egypt,818.0,% of area equipped for irrigation salinized,4445.0,2018.0,23.5417211614,E,-,0.0,%,"(2018, 2022)",EGY
+Egypt,818.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",EGY
+Egypt,818.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",EGY
+El Salvador,222.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",SLV
+El Salvador,222.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",SLV
+Equatorial Guinea,226.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",GNQ
+Equatorial Guinea,226.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",GNQ
+Eritrea,232.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",ERI
+Eritrea,232.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",ERI
+Estonia,233.0,Flood occurrence (WRI),4543.0,2017.0,1.1,I,-,0.0,-,"(2013, 2017)",EST
+Estonia,233.0,Flood occurrence (WRI),4543.0,2018.0,1.1,I,-,0.0,-,"(2018, 2022)",EST
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,1992.0,7.46,I,-,0.0,· 1000 hectares,"(1988, 1992)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,1997.0,7.46,I,-,0.0,· 1000 hectares,"(1993, 1997)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,2002.0,7.46,I,-,0.0,· 1000 hectares,"(1998, 2002)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,2007.0,7.46,I,-,0.0,· 1000 hectares,"(2003, 2007)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,2012.0,7.46,I,-,0.0,· 1000 hectares,"(2008, 2012)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,2017.0,7.46,I,-,0.0,· 1000 hectares,"(2013, 2017)",SWZ
+Eswatini,748.0,Area waterlogged by irrigation,4401.0,2018.0,7.46,I,-,0.0,· 1000 hectares,"(2018, 2022)",SWZ
+Eswatini,748.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",SWZ
+Eswatini,748.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",SWZ
+Ethiopia,231.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",ETH
+Ethiopia,231.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",ETH
+Finland,246.0,Flood occurrence (WRI),4543.0,2017.0,0.2,I,-,0.0,-,"(2013, 2017)",FIN
+Finland,246.0,Flood occurrence (WRI),4543.0,2018.0,0.2,I,-,0.0,-,"(2018, 2022)",FIN
+France,250.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",FRA
+France,250.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",FRA
+Gabon,266.0,Flood occurrence (WRI),4543.0,2017.0,0.7,I,-,0.0,-,"(2013, 2017)",GAB
+Gabon,266.0,Flood occurrence (WRI),4543.0,2018.0,0.7,I,-,0.0,-,"(2018, 2022)",GAB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,1992.0,0.2077,I,-,0.0,· 1000 hectares,"(1988, 1992)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,1997.0,0.2077,I,-,0.0,· 1000 hectares,"(1993, 1997)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,2002.0,0.2077,I,-,0.0,· 1000 hectares,"(1998, 2002)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,2007.0,0.2077,I,-,0.0,· 1000 hectares,"(2003, 2007)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,2012.0,0.2077,I,-,0.0,· 1000 hectares,"(2008, 2012)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,2017.0,0.2077,I,-,0.0,· 1000 hectares,"(2013, 2017)",GMB
+Gambia,270.0,Area waterlogged by irrigation,4401.0,2018.0,0.2077,I,-,0.0,· 1000 hectares,"(2018, 2022)",GMB
+Gambia,270.0,Flood occurrence (WRI),4543.0,2017.0,1.5,I,-,0.0,-,"(2013, 2017)",GMB
+Gambia,270.0,Flood occurrence (WRI),4543.0,2018.0,1.5,I,-,0.0,-,"(2018, 2022)",GMB
+Georgia,268.0,Area salinized by irrigation,4400.0,2002.0,113.6,-,-,0.0,· 1000 ha,"(1998, 2002)",GEO
+Georgia,268.0,Area salinized by irrigation,4400.0,2007.0,113.6,I,-,0.0,· 1000 ha,"(2003, 2007)",GEO
+Georgia,268.0,Area salinized by irrigation,4400.0,2012.0,113.6,I,-,0.0,· 1000 ha,"(2008, 2012)",GEO
+Georgia,268.0,Area salinized by irrigation,4400.0,2017.0,113.6,I,-,0.0,· 1000 ha,"(2013, 2017)",GEO
+Georgia,268.0,Area salinized by irrigation,4400.0,2018.0,113.6,I,-,0.0,· 1000 ha,"(2018, 2022)",GEO
+Georgia,268.0,% of area equipped for irrigation salinized,4445.0,2002.0,24.0427906261,E,-,0.0,%,"(1998, 2002)",GEO
+Georgia,268.0,% of area equipped for irrigation salinized,4445.0,2007.0,22.5526592682,E,-,0.0,%,"(2003, 2007)",GEO
+Georgia,268.0,% of area equipped for irrigation salinized,4445.0,2012.0,22.5526592682,E,-,0.0,%,"(2008, 2012)",GEO
+Georgia,268.0,% of area equipped for irrigation salinized,4445.0,2017.0,94.6666666667,E,-,0.0,%,"(2013, 2017)",GEO
+Georgia,268.0,% of area equipped for irrigation salinized,4445.0,2018.0,89.4488188976,E,-,0.0,%,"(2018, 2022)",GEO
+Georgia,268.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",GEO
+Georgia,268.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",GEO
+Germany,276.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",DEU
+Germany,276.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",DEU
+Ghana,288.0,Area salinized by irrigation,4400.0,1992.0,1.48,-,-,5047.0,· 1000 ha,"(1988, 1992)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,1997.0,1.48,I,-,0.0,· 1000 ha,"(1993, 1997)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,2002.0,1.48,I,-,0.0,· 1000 ha,"(1998, 2002)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,2007.0,1.48,I,-,0.0,· 1000 ha,"(2003, 2007)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,2012.0,1.48,I,-,0.0,· 1000 ha,"(2008, 2012)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,2017.0,1.48,I,-,0.0,· 1000 ha,"(2013, 2017)",GHA
+Ghana,288.0,Area salinized by irrigation,4400.0,2018.0,1.48,I,-,0.0,· 1000 ha,"(2018, 2022)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,1997.0,7.941192252,E,-,0.0,%,"(1993, 1997)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,2002.0,4.7896440129,E,-,0.0,%,"(1998, 2002)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,2007.0,4.7896440129,E,-,0.0,%,"(2003, 2007)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,2012.0,4.7896440129,E,-,0.0,%,"(2008, 2012)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,2017.0,4.7896440129,E,-,0.0,%,"(2013, 2017)",GHA
+Ghana,288.0,% of area equipped for irrigation salinized,4445.0,2018.0,4.7896440129,E,-,0.0,%,"(2018, 2022)",GHA
+Ghana,288.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",GHA
+Ghana,288.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",GHA
+Greece,300.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",GRC
+Greece,300.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",GRC
+Guatemala,320.0,Area salinized by irrigation,4400.0,1992.0,5.0,I,-,0.0,· 1000 ha,"(1988, 1992)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,1997.0,5.0,I,-,0.0,· 1000 ha,"(1993, 1997)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,2002.0,5.0,I,-,0.0,· 1000 ha,"(1998, 2002)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,2007.0,5.0,I,-,0.0,· 1000 ha,"(2003, 2007)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,2012.0,5.0,I,-,0.0,· 1000 ha,"(2008, 2012)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,2017.0,5.0,I,-,0.0,· 1000 ha,"(2013, 2017)",GTM
+Guatemala,320.0,Area salinized by irrigation,4400.0,2018.0,5.0,I,-,0.0,· 1000 ha,"(2018, 2022)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,1997.0,3.8520801233,E,-,0.0,%,"(1993, 1997)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,2002.0,2.6718916993,E,-,0.0,%,"(1998, 2002)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,2007.0,1.5460995345,E,-,0.0,%,"(2003, 2007)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,2012.0,1.4814814815,E,-,0.0,%,"(2008, 2012)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,2017.0,1.4814814815,E,-,0.0,%,"(2013, 2017)",GTM
+Guatemala,320.0,% of area equipped for irrigation salinized,4445.0,2018.0,1.4814814815,E,-,0.0,%,"(2018, 2022)",GTM
+Guatemala,320.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",GTM
+Guatemala,320.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",GTM
+Guinea,324.0,Flood occurrence (WRI),4543.0,2017.0,1.1,I,-,0.0,-,"(2013, 2017)",GIN
+Guinea,324.0,Flood occurrence (WRI),4543.0,2018.0,1.1,I,-,0.0,-,"(2018, 2022)",GIN
+Guinea-Bissau,624.0,Flood occurrence (WRI),4543.0,2017.0,1.0,I,-,0.0,-,"(2013, 2017)",GNB
+Guinea-Bissau,624.0,Flood occurrence (WRI),4543.0,2018.0,1.0,I,-,0.0,-,"(2018, 2022)",GNB
+Guyana,328.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",GUY
+Guyana,328.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",GUY
+Haiti,332.0,Flood occurrence (WRI),4543.0,2017.0,3.9,I,-,0.0,-,"(2013, 2017)",HTI
+Haiti,332.0,Flood occurrence (WRI),4543.0,2018.0,3.9,I,-,0.0,-,"(2018, 2022)",HTI
+Holy See,336.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",VAT
+Holy See,336.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",VAT
+Honduras,340.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",HND
+Honduras,340.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",HND
+Hungary,348.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",HUN
+Hungary,348.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",HUN
+Iceland,352.0,Flood occurrence (WRI),4543.0,2017.0,0.1,I,-,0.0,-,"(2013, 2017)",ISL
+Iceland,352.0,Flood occurrence (WRI),4543.0,2018.0,0.1,I,-,0.0,-,"(2018, 2022)",ISL
+India,356.0,Area salinized by irrigation,4400.0,1992.0,3300.0,I,-,0.0,· 1000 ha,"(1988, 1992)",IND
+India,356.0,Area salinized by irrigation,4400.0,1997.0,3300.0,I,-,0.0,· 1000 ha,"(1993, 1997)",IND
+India,356.0,Area salinized by irrigation,4400.0,2002.0,3300.0,I,-,0.0,· 1000 ha,"(1998, 2002)",IND
+India,356.0,Area salinized by irrigation,4400.0,2007.0,3300.0,I,-,0.0,· 1000 ha,"(2003, 2007)",IND
+India,356.0,Area salinized by irrigation,4400.0,2012.0,3300.0,I,-,0.0,· 1000 ha,"(2008, 2012)",IND
+India,356.0,Area salinized by irrigation,4400.0,2017.0,3300.0,I,-,0.0,· 1000 ha,"(2013, 2017)",IND
+India,356.0,Area salinized by irrigation,4400.0,2018.0,3300.0,I,-,0.0,· 1000 ha,"(2018, 2022)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,1992.0,6.664198445,E,-,0.0,%,"(1988, 1992)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,1997.0,5.9160141124,E,-,0.0,%,"(1993, 1997)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,2002.0,5.2721662639,E,-,0.0,%,"(1998, 2002)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,2007.0,5.0173834599,E,-,0.0,%,"(2003, 2007)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,2012.0,4.742278708,E,-,0.0,%,"(2008, 2012)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,2017.0,4.6875,E,-,0.0,%,"(2013, 2017)",IND
+India,356.0,% of area equipped for irrigation salinized,4445.0,2018.0,4.6875,E,-,0.0,%,"(2018, 2022)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,1992.0,5107.5,I,-,0.0,· 1000 hectares,"(1988, 1992)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,1997.0,2901.25,I,-,0.0,· 1000 hectares,"(1993, 1997)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,2002.0,2460.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,2007.0,2460.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,2012.0,2460.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,2017.0,2460.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",IND
+India,356.0,Area waterlogged by irrigation,4401.0,2018.0,2460.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",IND
+India,356.0,Flood occurrence (WRI),4543.0,2017.0,3.9,I,-,0.0,-,"(2013, 2017)",IND
+India,356.0,Flood occurrence (WRI),4543.0,2018.0,3.9,I,-,0.0,-,"(2018, 2022)",IND
+Indonesia,360.0,Area salinized by irrigation,4400.0,2002.0,400.0,I,-,0.0,· 1000 ha,"(1998, 2002)",IDN
+Indonesia,360.0,Area salinized by irrigation,4400.0,2007.0,400.0,I,-,0.0,· 1000 ha,"(2003, 2007)",IDN
+Indonesia,360.0,Area salinized by irrigation,4400.0,2012.0,400.0,I,-,0.0,· 1000 ha,"(2008, 2012)",IDN
+Indonesia,360.0,Area salinized by irrigation,4400.0,2017.0,400.0,I,-,0.0,· 1000 ha,"(2013, 2017)",IDN
+Indonesia,360.0,Area salinized by irrigation,4400.0,2018.0,400.0,I,-,0.0,· 1000 ha,"(2018, 2022)",IDN
+Indonesia,360.0,% of area equipped for irrigation salinized,4445.0,2002.0,6.7144136079,E,-,0.0,%,"(1998, 2002)",IDN
+Indonesia,360.0,% of area equipped for irrigation salinized,4445.0,2007.0,5.9506099375,E,-,0.0,%,"(2003, 2007)",IDN
+Indonesia,360.0,% of area equipped for irrigation salinized,4445.0,2012.0,5.9506099375,E,-,0.0,%,"(2008, 2012)",IDN
+Indonesia,360.0,% of area equipped for irrigation salinized,4445.0,2017.0,5.9506099375,E,-,0.0,%,"(2013, 2017)",IDN
+Indonesia,360.0,% of area equipped for irrigation salinized,4445.0,2018.0,5.9506099375,E,-,0.0,%,"(2018, 2022)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,1987.0,2150.0,-,-,3920.0,· 1000 hectares,"(1983, 1987)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,1992.0,2150.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,1997.0,2150.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,2002.0,2150.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,2007.0,2150.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,2012.0,2150.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,2017.0,2150.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",IDN
+Indonesia,360.0,Area waterlogged by irrigation,4401.0,2018.0,2150.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",IDN
+Indonesia,360.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",IDN
+Indonesia,360.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",IDN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,1997.0,2100.0,I,-,0.0,· 1000 ha,"(1993, 1997)",IRN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,2002.0,2100.0,I,-,0.0,· 1000 ha,"(1998, 2002)",IRN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,2007.0,2100.0,I,-,0.0,· 1000 ha,"(2003, 2007)",IRN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,2012.0,2100.0,I,-,0.0,· 1000 ha,"(2008, 2012)",IRN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,2017.0,2100.0,I,-,0.0,· 1000 ha,"(2013, 2017)",IRN
+Iran (Islamic Republic of),364.0,Area salinized by irrigation,4400.0,2018.0,2100.0,I,-,0.0,· 1000 ha,"(2018, 2022)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,1997.0,27.5915711692,E,-,0.0,%,"(1993, 1997)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,2002.0,26.1026180926,E,-,0.0,%,"(1998, 2002)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,2007.0,24.9070925911,E,-,0.0,%,"(2003, 2007)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,2012.0,24.1379310345,E,-,0.0,%,"(2008, 2012)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,2017.0,24.1379310345,E,-,0.0,%,"(2013, 2017)",IRN
+Iran (Islamic Republic of),364.0,% of area equipped for irrigation salinized,4445.0,2018.0,24.1379310345,E,-,0.0,%,"(2018, 2022)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,1997.0,1000.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,2002.0,1000.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,2007.0,1000.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,2012.0,1000.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,2017.0,1000.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",IRN
+Iran (Islamic Republic of),364.0,Area waterlogged by irrigation,4401.0,2018.0,1000.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",IRN
+Iran (Islamic Republic of),364.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",IRN
+Iran (Islamic Republic of),364.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",IRN
+Iraq,368.0,Area salinized by irrigation,4400.0,1992.0,1826.75,I,-,0.0,· 1000 ha,"(1988, 1992)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,1997.0,1988.625,I,-,0.0,· 1000 ha,"(1993, 1997)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,2002.0,2150.5,I,-,0.0,· 1000 ha,"(1998, 2002)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,2007.0,2312.375,I,-,0.0,· 1000 ha,"(2003, 2007)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,2012.0,2474.25,I,-,0.0,· 1000 ha,"(2008, 2012)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,2017.0,2636.125,I,-,0.0,· 1000 ha,"(2013, 2017)",IRQ
+Iraq,368.0,Area salinized by irrigation,4400.0,2018.0,2668.5,P,-,7101.0,· 1000 ha,"(2018, 2022)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,1992.0,51.8226950355,E,-,0.0,%,"(1988, 1992)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,1997.0,56.414893617,E,-,0.0,%,"(1993, 1997)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,2002.0,61.0070921986,E,-,0.0,%,"(1998, 2002)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,2007.0,65.5992907801,E,-,0.0,%,"(2003, 2007)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,2012.0,70.1914893617,E,-,0.0,%,"(2008, 2012)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,2017.0,74.7836879433,E,-,0.0,%,"(2013, 2017)",IRQ
+Iraq,368.0,% of area equipped for irrigation salinized,4445.0,2018.0,75.7021276596,E,-,0.0,%,"(2018, 2022)",IRQ
+Iraq,368.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",IRQ
+Iraq,368.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",IRQ
+Ireland,372.0,Flood occurrence (WRI),4543.0,2017.0,2.2,I,-,0.0,-,"(2013, 2017)",IRL
+Ireland,372.0,Flood occurrence (WRI),4543.0,2018.0,2.2,I,-,0.0,-,"(2018, 2022)",IRL
+Israel,376.0,Area salinized by irrigation,4400.0,1997.0,27.82,I,-,0.0,· 1000 ha,"(1993, 1997)",ISR
+Israel,376.0,Area salinized by irrigation,4400.0,2002.0,27.82,I,-,0.0,· 1000 ha,"(1998, 2002)",ISR
+Israel,376.0,Area salinized by irrigation,4400.0,2007.0,27.82,I,-,0.0,· 1000 ha,"(2003, 2007)",ISR
+Israel,376.0,Area salinized by irrigation,4400.0,2012.0,27.82,I,-,0.0,· 1000 ha,"(2008, 2012)",ISR
+Israel,376.0,Area salinized by irrigation,4400.0,2017.0,27.82,I,-,0.0,· 1000 ha,"(2013, 2017)",ISR
+Israel,376.0,Area salinized by irrigation,4400.0,2018.0,27.82,I,-,0.0,· 1000 ha,"(2018, 2022)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,1997.0,14.3402061856,E,-,0.0,%,"(1993, 1997)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,2002.0,12.8711169861,E,-,0.0,%,"(1998, 2002)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,2007.0,12.3644444444,E,-,0.0,%,"(2003, 2007)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,2012.0,12.3644444444,E,-,0.0,%,"(2008, 2012)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,2017.0,12.3644444444,E,-,0.0,%,"(2013, 2017)",ISR
+Israel,376.0,% of area equipped for irrigation salinized,4445.0,2018.0,12.3644444444,E,-,0.0,%,"(2018, 2022)",ISR
+Israel,376.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",ISR
+Israel,376.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",ISR
+Italy,380.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",ITA
+Italy,380.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",ITA
+Jamaica,388.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",JAM
+Jamaica,388.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",JAM
+Japan,392.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",JPN
+Japan,392.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",JPN
+Jordan,400.0,Area salinized by irrigation,4400.0,1992.0,2.277,I,-,0.0,· 1000 ha,"(1988, 1992)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,1997.0,2.277,I,-,0.0,· 1000 ha,"(1993, 1997)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,2002.0,2.277,I,-,0.0,· 1000 ha,"(1998, 2002)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,2007.0,2.277,I,-,0.0,· 1000 ha,"(2003, 2007)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,2012.0,2.277,I,-,0.0,· 1000 ha,"(2008, 2012)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,2017.0,2.277,I,-,0.0,· 1000 ha,"(2013, 2017)",JOR
+Jordan,400.0,Area salinized by irrigation,4400.0,2018.0,2.277,I,-,0.0,· 1000 ha,"(2018, 2022)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,1992.0,3.4994877049,E,-,0.0,%,"(1988, 1992)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,1997.0,2.920915913,E,-,0.0,%,"(1993, 1997)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,2002.0,3.0388362472,E,-,0.0,%,"(1998, 2002)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,2007.0,2.807991121,E,-,0.0,%,"(2003, 2007)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,2012.0,2.3805541035,E,-,0.0,%,"(2008, 2012)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,2017.0,2.3104319503,E,-,0.0,%,"(2013, 2017)",JOR
+Jordan,400.0,% of area equipped for irrigation salinized,4445.0,2018.0,2.5130786041,E,-,0.0,%,"(2018, 2022)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,1997.0,1.5,I,-,0.0,· 1000 hectares,"(1993, 1997)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,2002.0,1.5,I,-,0.0,· 1000 hectares,"(1998, 2002)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,2007.0,1.5,I,-,0.0,· 1000 hectares,"(2003, 2007)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,2012.0,1.5,I,-,0.0,· 1000 hectares,"(2008, 2012)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,2017.0,1.5,I,-,0.0,· 1000 hectares,"(2013, 2017)",JOR
+Jordan,400.0,Area waterlogged by irrigation,4401.0,2018.0,1.5,I,-,0.0,· 1000 hectares,"(2018, 2022)",JOR
+Jordan,400.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",JOR
+Jordan,400.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",JOR
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,1997.0,280.1882352941,I,-,0.0,· 1000 ha,"(1993, 1997)",KAZ
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,2002.0,327.9235294118,I,-,0.0,· 1000 ha,"(1998, 2002)",KAZ
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,2007.0,375.6588235294,I,-,0.0,· 1000 ha,"(2003, 2007)",KAZ
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,2012.0,409.3,I,-,0.0,· 1000 ha,"(2008, 2012)",KAZ
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,2017.0,397.2,-,-,7119.0,· 1000 ha,"(2013, 2017)",KAZ
+Kazakhstan,398.0,Area salinized by irrigation,4400.0,2018.0,414.8,-,-,7119.0,· 1000 ha,"(2018, 2022)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,1997.0,8.7927035951,E,-,0.0,%,"(1993, 1997)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,2002.0,16.6281390098,E,-,0.0,%,"(1998, 2002)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,2007.0,17.4238786424,E,-,0.0,%,"(2003, 2007)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,2012.0,18.0186658058,E,-,0.0,%,"(2008, 2012)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,2017.0,28.0708697588,E,-,0.0,%,"(2013, 2017)",KAZ
+Kazakhstan,398.0,% of area equipped for irrigation salinized,4445.0,2018.0,28.0272164001,E,-,0.0,%,"(2018, 2022)",KAZ
+Kazakhstan,398.0,Area waterlogged by irrigation,4401.0,2017.0,29.7,-,-,7122.0,· 1000 hectares,"(2013, 2017)",KAZ
+Kazakhstan,398.0,Area waterlogged by irrigation,4401.0,2018.0,22.9,-,-,7122.0,· 1000 hectares,"(2018, 2022)",KAZ
+Kazakhstan,398.0,Flood occurrence (WRI),4543.0,2017.0,1.7,I,-,0.0,-,"(2013, 2017)",KAZ
+Kazakhstan,398.0,Flood occurrence (WRI),4543.0,2018.0,1.7,I,-,0.0,-,"(2018, 2022)",KAZ
+Kenya,404.0,Area salinized by irrigation,4400.0,2002.0,30.0,I,-,0.0,· 1000 ha,"(1998, 2002)",KEN
+Kenya,404.0,Area salinized by irrigation,4400.0,2007.0,30.0,I,-,0.0,· 1000 ha,"(2003, 2007)",KEN
+Kenya,404.0,Area salinized by irrigation,4400.0,2012.0,30.0,I,-,0.0,· 1000 ha,"(2008, 2012)",KEN
+Kenya,404.0,Area salinized by irrigation,4400.0,2017.0,30.0,I,-,0.0,· 1000 ha,"(2013, 2017)",KEN
+Kenya,404.0,Area salinized by irrigation,4400.0,2018.0,30.0,I,-,0.0,· 1000 ha,"(2018, 2022)",KEN
+Kenya,404.0,% of area equipped for irrigation salinized,4445.0,2002.0,28.2226165786,E,-,0.0,%,"(1998, 2002)",KEN
+Kenya,404.0,% of area equipped for irrigation salinized,4445.0,2007.0,22.5555430247,E,-,0.0,%,"(2003, 2007)",KEN
+Kenya,404.0,% of area equipped for irrigation salinized,4445.0,2012.0,17.9479509423,E,-,0.0,%,"(2008, 2012)",KEN
+Kenya,404.0,% of area equipped for irrigation salinized,4445.0,2017.0,14.9723012427,E,-,0.0,%,"(2013, 2017)",KEN
+Kenya,404.0,% of area equipped for irrigation salinized,4445.0,2018.0,14.9723012427,E,-,0.0,%,"(2018, 2022)",KEN
+Kenya,404.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",KEN
+Kenya,404.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",KEN
+Kuwait,414.0,Area salinized by irrigation,4400.0,1997.0,4.08,I,-,0.0,· 1000 ha,"(1993, 1997)",KWT
+Kuwait,414.0,Area salinized by irrigation,4400.0,2002.0,4.08,I,-,0.0,· 1000 ha,"(1998, 2002)",KWT
+Kuwait,414.0,Area salinized by irrigation,4400.0,2007.0,4.08,I,-,0.0,· 1000 ha,"(2003, 2007)",KWT
+Kuwait,414.0,Area salinized by irrigation,4400.0,2012.0,4.08,I,-,0.0,· 1000 ha,"(2008, 2012)",KWT
+Kuwait,414.0,Area salinized by irrigation,4400.0,2017.0,4.08,I,-,0.0,· 1000 ha,"(2013, 2017)",KWT
+Kuwait,414.0,Area salinized by irrigation,4400.0,2018.0,4.08,I,-,0.0,· 1000 ha,"(2018, 2022)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,1997.0,69.5178054183,E,-,0.0,%,"(1993, 1997)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,2002.0,58.0975887602,E,-,0.0,%,"(1998, 2002)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,2007.0,37.4311926606,E,-,0.0,%,"(2003, 2007)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,2012.0,27.7551020408,E,-,0.0,%,"(2008, 2012)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,2017.0,24.0282685512,E,-,0.0,%,"(2013, 2017)",KWT
+Kuwait,414.0,% of area equipped for irrigation salinized,4445.0,2018.0,24.0282685512,E,-,0.0,%,"(2018, 2022)",KWT
+Kuwait,414.0,Flood occurrence (WRI),4543.0,2017.0,0.6,I,-,0.0,-,"(2013, 2017)",KWT
+Kuwait,414.0,Flood occurrence (WRI),4543.0,2018.0,0.6,I,-,0.0,-,"(2018, 2022)",KWT
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,1997.0,57.9,I,-,0.0,· 1000 ha,"(1993, 1997)",KGZ
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,2002.0,52.65,I,-,0.0,· 1000 ha,"(1998, 2002)",KGZ
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,2007.0,49.5,I,-,0.0,· 1000 ha,"(2003, 2007)",KGZ
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,2012.0,49.5,I,-,0.0,· 1000 ha,"(2008, 2012)",KGZ
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,2017.0,49.5,I,-,0.0,· 1000 ha,"(2013, 2017)",KGZ
+Kyrgyzstan,417.0,Area salinized by irrigation,4400.0,2018.0,49.5,I,-,0.0,· 1000 ha,"(2018, 2022)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,1997.0,5.4528175887,E,-,0.0,%,"(1993, 1997)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,2002.0,5.0792829454,E,-,0.0,%,"(1998, 2002)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,2007.0,4.8462894067,I,-,0.0,%,"(2003, 2007)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,2012.0,4.8387096774,E,-,0.0,%,"(2008, 2012)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,2017.0,4.8462894067,I,-,0.0,%,"(2013, 2017)",KGZ
+Kyrgyzstan,417.0,% of area equipped for irrigation salinized,4445.0,2018.0,4.8462894067,I,-,0.0,%,"(2018, 2022)",KGZ
+Kyrgyzstan,417.0,Area waterlogged by irrigation,4401.0,2007.0,35.4,I,-,0.0,· 1000 hectares,"(2003, 2007)",KGZ
+Kyrgyzstan,417.0,Area waterlogged by irrigation,4401.0,2012.0,35.4,I,-,0.0,· 1000 hectares,"(2008, 2012)",KGZ
+Kyrgyzstan,417.0,Area waterlogged by irrigation,4401.0,2017.0,35.4,I,-,0.0,· 1000 hectares,"(2013, 2017)",KGZ
+Kyrgyzstan,417.0,Area waterlogged by irrigation,4401.0,2018.0,35.4,I,-,0.0,· 1000 hectares,"(2018, 2022)",KGZ
+Kyrgyzstan,417.0,Flood occurrence (WRI),4543.0,2017.0,2.1,I,-,0.0,-,"(2013, 2017)",KGZ
+Kyrgyzstan,417.0,Flood occurrence (WRI),4543.0,2018.0,2.1,I,-,0.0,-,"(2018, 2022)",KGZ
+Lao People's Democratic Republic,418.0,Flood occurrence (WRI),4543.0,2017.0,3.9,I,-,0.0,-,"(2013, 2017)",LAO
+Lao People's Democratic Republic,418.0,Flood occurrence (WRI),4543.0,2018.0,3.9,I,-,0.0,-,"(2018, 2022)",LAO
+Latvia,428.0,Flood occurrence (WRI),4543.0,2017.0,1.8,I,-,0.0,-,"(2013, 2017)",LVA
+Latvia,428.0,Flood occurrence (WRI),4543.0,2018.0,1.8,I,-,0.0,-,"(2018, 2022)",LVA
+Lebanon,422.0,Area salinized by irrigation,4400.0,2002.0,1.0,I,-,0.0,· 1000 ha,"(1998, 2002)",LBN
+Lebanon,422.0,Area salinized by irrigation,4400.0,2007.0,1.0,I,-,0.0,· 1000 ha,"(2003, 2007)",LBN
+Lebanon,422.0,Area salinized by irrigation,4400.0,2012.0,1.0,I,-,0.0,· 1000 ha,"(2008, 2012)",LBN
+Lebanon,422.0,Area salinized by irrigation,4400.0,2017.0,1.0,I,-,0.0,· 1000 ha,"(2013, 2017)",LBN
+Lebanon,422.0,Area salinized by irrigation,4400.0,2018.0,1.0,I,-,0.0,· 1000 ha,"(2018, 2022)",LBN
+Lebanon,422.0,% of area equipped for irrigation salinized,4445.0,2002.0,0.923420587,E,-,0.0,%,"(1998, 2002)",LBN
+Lebanon,422.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.8798999482,E,-,0.0,%,"(2003, 2007)",LBN
+Lebanon,422.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.9423487257,E,-,0.0,%,"(2008, 2012)",LBN
+Lebanon,422.0,% of area equipped for irrigation salinized,4445.0,2017.0,1.1111111111,E,-,0.0,%,"(2013, 2017)",LBN
+Lebanon,422.0,% of area equipped for irrigation salinized,4445.0,2018.0,1.1111111111,E,-,0.0,%,"(2018, 2022)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,1992.0,3.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,1997.0,3.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,2002.0,3.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,2007.0,3.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,2012.0,3.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,2017.0,3.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",LBN
+Lebanon,422.0,Area waterlogged by irrigation,4401.0,2018.0,3.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",LBN
+Lebanon,422.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",LBN
+Lebanon,422.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",LBN
+Lesotho,426.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",LSO
+Lesotho,426.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",LSO
+Liberia,430.0,Flood occurrence (WRI),4543.0,2017.0,1.9,I,-,0.0,-,"(2013, 2017)",LBR
+Liberia,430.0,Flood occurrence (WRI),4543.0,2018.0,1.9,I,-,0.0,-,"(2018, 2022)",LBR
+Libya,434.0,Area salinized by irrigation,4400.0,2002.0,190.0,I,-,0.0,· 1000 ha,"(1998, 2002)",LBY
+Libya,434.0,Area salinized by irrigation,4400.0,2007.0,190.0,I,-,0.0,· 1000 ha,"(2003, 2007)",LBY
+Libya,434.0,Area salinized by irrigation,4400.0,2012.0,190.0,I,-,0.0,· 1000 ha,"(2008, 2012)",LBY
+Libya,434.0,Area salinized by irrigation,4400.0,2017.0,190.0,I,-,0.0,· 1000 ha,"(2013, 2017)",LBY
+Libya,434.0,Area salinized by irrigation,4400.0,2018.0,190.0,I,-,0.0,· 1000 ha,"(2018, 2022)",LBY
+Libya,434.0,% of area equipped for irrigation salinized,4445.0,2002.0,41.9889502762,E,-,0.0,%,"(1998, 2002)",LBY
+Libya,434.0,% of area equipped for irrigation salinized,4445.0,2007.0,46.4831804281,E,-,0.0,%,"(2003, 2007)",LBY
+Libya,434.0,% of area equipped for irrigation salinized,4445.0,2012.0,47.5,E,-,0.0,%,"(2008, 2012)",LBY
+Libya,434.0,% of area equipped for irrigation salinized,4445.0,2017.0,47.5,E,-,0.0,%,"(2013, 2017)",LBY
+Libya,434.0,% of area equipped for irrigation salinized,4445.0,2018.0,47.5,E,-,0.0,%,"(2018, 2022)",LBY
+Libya,434.0,Area waterlogged by irrigation,4401.0,2002.0,190.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",LBY
+Libya,434.0,Area waterlogged by irrigation,4401.0,2007.0,190.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",LBY
+Libya,434.0,Area waterlogged by irrigation,4401.0,2012.0,190.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",LBY
+Libya,434.0,Area waterlogged by irrigation,4401.0,2017.0,190.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",LBY
+Libya,434.0,Area waterlogged by irrigation,4401.0,2018.0,190.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",LBY
+Libya,434.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",LBY
+Libya,434.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",LBY
+Liechtenstein,438.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",LIE
+Liechtenstein,438.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",LIE
+Lithuania,440.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",LTU
+Lithuania,440.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",LTU
+Luxembourg,442.0,Area salinized by irrigation,4400.0,2017.0,0.0,-,-,7132.0,· 1000 ha,"(2013, 2017)",LUX
+Luxembourg,442.0,Area salinized by irrigation,4400.0,2018.0,0.0,I,-,0.0,· 1000 ha,"(2018, 2022)",LUX
+Luxembourg,442.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",LUX
+Luxembourg,442.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",LUX
+Madagascar,450.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",MDG
+Madagascar,450.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",MDG
+Malawi,454.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",MWI
+Malawi,454.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",MWI
+Malaysia,458.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",MYS
+Malaysia,458.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",MYS
+Mali,466.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",MLI
+Mali,466.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",MLI
+Malta,470.0,Area salinized by irrigation,4400.0,1997.0,0.0,I,-,0.0,· 1000 ha,"(1993, 1997)",MLT
+Malta,470.0,Area salinized by irrigation,4400.0,2002.0,0.0,I,-,0.0,· 1000 ha,"(1998, 2002)",MLT
+Malta,470.0,Area salinized by irrigation,4400.0,2007.0,0.0,I,-,0.0,· 1000 ha,"(2003, 2007)",MLT
+Malta,470.0,Area salinized by irrigation,4400.0,2012.0,0.0,I,-,0.0,· 1000 ha,"(2008, 2012)",MLT
+Malta,470.0,Area salinized by irrigation,4400.0,2017.0,0.0,-,-,7378.0,· 1000 ha,"(2013, 2017)",MLT
+Malta,470.0,Area salinized by irrigation,4400.0,2018.0,0.0,-,-,7378.0,· 1000 ha,"(2018, 2022)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,1997.0,0.0,I,-,0.0,%,"(1993, 1997)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,2002.0,0.0,I,-,0.0,%,"(1998, 2002)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.0,I,-,0.0,%,"(2003, 2007)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.0,I,-,0.0,%,"(2008, 2012)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.0,E,-,0.0,%,"(2013, 2017)",MLT
+Malta,470.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.0,E,-,0.0,%,"(2018, 2022)",MLT
+Malta,470.0,Area waterlogged by irrigation,4401.0,2017.0,0.0,-,-,7141.0,· 1000 hectares,"(2013, 2017)",MLT
+Malta,470.0,Area waterlogged by irrigation,4401.0,2018.0,0.0,-,-,7141.0,· 1000 hectares,"(2018, 2022)",MLT
+Malta,470.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",MLT
+Malta,470.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",MLT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,1997.0,19.3,I,-,0.0,· 1000 hectares,"(1993, 1997)",MRT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,2002.0,19.3,I,-,0.0,· 1000 hectares,"(1998, 2002)",MRT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,2007.0,19.3,I,-,0.0,· 1000 hectares,"(2003, 2007)",MRT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,2012.0,19.3,I,-,0.0,· 1000 hectares,"(2008, 2012)",MRT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,2017.0,19.3,I,-,0.0,· 1000 hectares,"(2013, 2017)",MRT
+Mauritania,478.0,Area waterlogged by irrigation,4401.0,2018.0,19.3,I,-,0.0,· 1000 hectares,"(2018, 2022)",MRT
+Mauritania,478.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",MRT
+Mauritania,478.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",MRT
+Mauritius,480.0,Area salinized by irrigation,4400.0,2002.0,0.0,-,-,4961.0,· 1000 ha,"(1998, 2002)",MUS
+Mauritius,480.0,Area salinized by irrigation,4400.0,2007.0,0.0,I,-,0.0,· 1000 ha,"(2003, 2007)",MUS
+Mauritius,480.0,Area salinized by irrigation,4400.0,2012.0,0.0,I,-,0.0,· 1000 ha,"(2008, 2012)",MUS
+Mauritius,480.0,Area salinized by irrigation,4400.0,2017.0,0.0,-,-,7152.0,· 1000 ha,"(2013, 2017)",MUS
+Mauritius,480.0,Area salinized by irrigation,4400.0,2018.0,0.0,-,-,7152.0,· 1000 ha,"(2018, 2022)",MUS
+Mauritius,480.0,% of area equipped for irrigation salinized,4445.0,2002.0,0.0,E,-,0.0,%,"(1998, 2002)",MUS
+Mauritius,480.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.0,I,-,0.0,%,"(2003, 2007)",MUS
+Mauritius,480.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.0,I,-,0.0,%,"(2008, 2012)",MUS
+Mauritius,480.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.0,E,-,0.0,%,"(2013, 2017)",MUS
+Mauritius,480.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.0,E,-,0.0,%,"(2018, 2022)",MUS
+Mauritius,480.0,Area waterlogged by irrigation,4401.0,2002.0,0.0,-,-,4961.0,· 1000 hectares,"(1998, 2002)",MUS
+Mauritius,480.0,Area waterlogged by irrigation,4401.0,2007.0,0.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",MUS
+Mauritius,480.0,Area waterlogged by irrigation,4401.0,2012.0,0.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",MUS
+Mauritius,480.0,Area waterlogged by irrigation,4401.0,2017.0,0.0,-,-,7152.0,· 1000 hectares,"(2013, 2017)",MUS
+Mauritius,480.0,Area waterlogged by irrigation,4401.0,2018.0,0.0,-,-,7152.0,· 1000 hectares,"(2018, 2022)",MUS
+Mexico,484.0,Area salinized by irrigation,4400.0,1997.0,384.2,I,-,0.0,· 1000 ha,"(1993, 1997)",MEX
+Mexico,484.0,Area salinized by irrigation,4400.0,2002.0,384.2,I,-,0.0,· 1000 ha,"(1998, 2002)",MEX
+Mexico,484.0,Area salinized by irrigation,4400.0,2007.0,384.2,I,-,0.0,· 1000 ha,"(2003, 2007)",MEX
+Mexico,484.0,Area salinized by irrigation,4400.0,2012.0,384.2,I,-,0.0,· 1000 ha,"(2008, 2012)",MEX
+Mexico,484.0,Area salinized by irrigation,4400.0,2017.0,384.2,I,-,0.0,· 1000 ha,"(2013, 2017)",MEX
+Mexico,484.0,Area salinized by irrigation,4400.0,2018.0,384.2,I,-,0.0,· 1000 ha,"(2018, 2022)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,1997.0,6.141402516,E,-,0.0,%,"(1993, 1997)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,2002.0,6.0855332629,E,-,0.0,%,"(1998, 2002)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,2007.0,6.5528666506,E,-,0.0,%,"(2003, 2007)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,2012.0,6.7767539566,E,-,0.0,%,"(2008, 2012)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,2017.0,5.2472380836,E,-,0.0,%,"(2013, 2017)",MEX
+Mexico,484.0,% of area equipped for irrigation salinized,4445.0,2018.0,5.261677951,E,-,0.0,%,"(2018, 2022)",MEX
+Mexico,484.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",MEX
+Mexico,484.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",MEX
+Monaco,492.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",MCO
+Monaco,492.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",MCO
+Mongolia,496.0,Flood occurrence (WRI),4543.0,2017.0,1.3,I,-,0.0,-,"(2013, 2017)",MNG
+Mongolia,496.0,Flood occurrence (WRI),4543.0,2018.0,1.3,I,-,0.0,-,"(2018, 2022)",MNG
+Montenegro,499.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",MNE
+Montenegro,499.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",MNE
+Morocco,504.0,Area salinized by irrigation,4400.0,2002.0,150.0,I,-,0.0,· 1000 ha,"(1998, 2002)",MAR
+Morocco,504.0,Area salinized by irrigation,4400.0,2007.0,150.0,I,-,0.0,· 1000 ha,"(2003, 2007)",MAR
+Morocco,504.0,Area salinized by irrigation,4400.0,2012.0,150.0,I,-,0.0,· 1000 ha,"(2008, 2012)",MAR
+Morocco,504.0,Area salinized by irrigation,4400.0,2017.0,150.0,I,-,0.0,· 1000 ha,"(2013, 2017)",MAR
+Morocco,504.0,Area salinized by irrigation,4400.0,2018.0,150.0,I,-,0.0,· 1000 ha,"(2018, 2022)",MAR
+Morocco,504.0,% of area equipped for irrigation salinized,4445.0,2002.0,10.247056533,E,-,0.0,%,"(1998, 2002)",MAR
+Morocco,504.0,% of area equipped for irrigation salinized,4445.0,2007.0,10.0006857613,E,-,0.0,%,"(2003, 2007)",MAR
+Morocco,504.0,% of area equipped for irrigation salinized,4445.0,2012.0,9.867122747,E,-,0.0,%,"(2008, 2012)",MAR
+Morocco,504.0,% of area equipped for irrigation salinized,4445.0,2017.0,9.867122747,E,-,0.0,%,"(2013, 2017)",MAR
+Morocco,504.0,% of area equipped for irrigation salinized,4445.0,2018.0,9.867122747,E,-,0.0,%,"(2018, 2022)",MAR
+Morocco,504.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",MAR
+Morocco,504.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",MAR
+Mozambique,508.0,Area salinized by irrigation,4400.0,1997.0,2.0,I,-,0.0,· 1000 ha,"(1993, 1997)",MOZ
+Mozambique,508.0,Area salinized by irrigation,4400.0,2002.0,2.0,I,-,0.0,· 1000 ha,"(1998, 2002)",MOZ
+Mozambique,508.0,Area salinized by irrigation,4400.0,2007.0,2.0,I,-,0.0,· 1000 ha,"(2003, 2007)",MOZ
+Mozambique,508.0,Area salinized by irrigation,4400.0,2012.0,2.0,I,-,0.0,· 1000 ha,"(2008, 2012)",MOZ
+Mozambique,508.0,Area salinized by irrigation,4400.0,2017.0,2.0,I,-,0.0,· 1000 ha,"(2013, 2017)",MOZ
+Mozambique,508.0,Area salinized by irrigation,4400.0,2018.0,2.0,I,-,0.0,· 1000 ha,"(2018, 2022)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,1997.0,1.8099547511,E,-,0.0,%,"(1993, 1997)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,2002.0,1.6934801016,E,-,0.0,%,"(1998, 2002)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,2007.0,1.6934801016,E,-,0.0,%,"(2003, 2007)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,2012.0,1.6934801016,E,-,0.0,%,"(2008, 2012)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,2017.0,1.6934801016,E,-,0.0,%,"(2013, 2017)",MOZ
+Mozambique,508.0,% of area equipped for irrigation salinized,4445.0,2018.0,1.6934801016,E,-,0.0,%,"(2018, 2022)",MOZ
+Mozambique,508.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",MOZ
+Mozambique,508.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",MOZ
+Myanmar,104.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",MMR
+Myanmar,104.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",MMR
+Namibia,516.0,Area salinized by irrigation,4400.0,1992.0,1.3,-,-,5047.0,· 1000 ha,"(1988, 1992)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,1997.0,1.3,I,-,0.0,· 1000 ha,"(1993, 1997)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,2002.0,1.3,I,-,0.0,· 1000 ha,"(1998, 2002)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,2007.0,1.3,I,-,0.0,· 1000 ha,"(2003, 2007)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,2012.0,1.3,I,-,0.0,· 1000 ha,"(2008, 2012)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,2017.0,1.3,I,-,0.0,· 1000 ha,"(2013, 2017)",NAM
+Namibia,516.0,Area salinized by irrigation,4400.0,2018.0,1.3,I,-,0.0,· 1000 ha,"(2018, 2022)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,1992.0,21.1657440573,E,-,0.0,%,"(1988, 1992)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,1997.0,18.9573459716,E,-,0.0,%,"(1993, 1997)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,2002.0,17.1662485145,E,-,0.0,%,"(1998, 2002)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,2007.0,17.1662485145,E,-,0.0,%,"(2003, 2007)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,2012.0,17.1662485145,E,-,0.0,%,"(2008, 2012)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,2017.0,17.1662485145,E,-,0.0,%,"(2013, 2017)",NAM
+Namibia,516.0,% of area equipped for irrigation salinized,4445.0,2018.0,17.1662485145,E,-,0.0,%,"(2018, 2022)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,1992.0,2.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,1997.0,2.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,2002.0,2.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,2007.0,2.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,2012.0,2.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,2017.0,2.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",NAM
+Namibia,516.0,Area waterlogged by irrigation,4401.0,2018.0,2.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",NAM
+Namibia,516.0,Flood occurrence (WRI),4543.0,2017.0,2.1,I,-,0.0,-,"(2013, 2017)",NAM
+Namibia,516.0,Flood occurrence (WRI),4543.0,2018.0,2.1,I,-,0.0,-,"(2018, 2022)",NAM
+Nepal,524.0,Flood occurrence (WRI),4543.0,2017.0,4.5,I,-,0.0,-,"(2013, 2017)",NPL
+Nepal,524.0,Flood occurrence (WRI),4543.0,2018.0,4.5,I,-,0.0,-,"(2018, 2022)",NPL
+Netherlands,528.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",NLD
+Netherlands,528.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",NLD
+New Zealand,554.0,Flood occurrence (WRI),4543.0,2017.0,1.7,I,-,0.0,-,"(2013, 2017)",NZL
+New Zealand,554.0,Flood occurrence (WRI),4543.0,2018.0,1.7,I,-,0.0,-,"(2018, 2022)",NZL
+Nicaragua,558.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",NIC
+Nicaragua,558.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",NIC
+Niger,562.0,Area salinized by irrigation,4400.0,2002.0,0.35,I,-,0.0,· 1000 ha,"(1998, 2002)",NER
+Niger,562.0,Area salinized by irrigation,4400.0,2007.0,0.35,I,-,0.0,· 1000 ha,"(2003, 2007)",NER
+Niger,562.0,Area salinized by irrigation,4400.0,2012.0,0.35,I,-,0.0,· 1000 ha,"(2008, 2012)",NER
+Niger,562.0,Area salinized by irrigation,4400.0,2017.0,0.35,I,-,0.0,· 1000 ha,"(2013, 2017)",NER
+Niger,562.0,Area salinized by irrigation,4400.0,2018.0,0.35,I,-,0.0,· 1000 ha,"(2018, 2022)",NER
+Niger,562.0,% of area equipped for irrigation salinized,4445.0,2002.0,0.4763589841,E,-,0.0,%,"(1998, 2002)",NER
+Niger,562.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.4159404215,E,-,0.0,%,"(2003, 2007)",NER
+Niger,562.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.353618698,E,-,0.0,%,"(2008, 2012)",NER
+Niger,562.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.3445220986,E,-,0.0,%,"(2013, 2017)",NER
+Niger,562.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.3445220986,E,-,0.0,%,"(2018, 2022)",NER
+Niger,562.0,Flood occurrence (WRI),4543.0,2017.0,3.4,I,-,0.0,-,"(2013, 2017)",NER
+Niger,562.0,Flood occurrence (WRI),4543.0,2018.0,3.4,I,-,0.0,-,"(2018, 2022)",NER
+Nigeria,566.0,Area salinized by irrigation,4400.0,2002.0,100.0,I,-,0.0,· 1000 ha,"(1998, 2002)",NGA
+Nigeria,566.0,Area salinized by irrigation,4400.0,2007.0,100.0,I,-,0.0,· 1000 ha,"(2003, 2007)",NGA
+Nigeria,566.0,Area salinized by irrigation,4400.0,2012.0,100.0,I,-,0.0,· 1000 ha,"(2008, 2012)",NGA
+Nigeria,566.0,Area salinized by irrigation,4400.0,2017.0,100.0,I,-,0.0,· 1000 ha,"(2013, 2017)",NGA
+Nigeria,566.0,Area salinized by irrigation,4400.0,2018.0,100.0,I,-,0.0,· 1000 ha,"(2018, 2022)",NGA
+Nigeria,566.0,% of area equipped for irrigation salinized,4445.0,2002.0,34.278858514,E,-,0.0,%,"(1998, 2002)",NGA
+Nigeria,566.0,% of area equipped for irrigation salinized,4445.0,2007.0,32.0358801858,E,-,0.0,%,"(2003, 2007)",NGA
+Nigeria,566.0,% of area equipped for irrigation salinized,4445.0,2012.0,30.1977955609,E,-,0.0,%,"(2008, 2012)",NGA
+Nigeria,566.0,% of area equipped for irrigation salinized,4445.0,2017.0,30.1977955609,E,-,0.0,%,"(2013, 2017)",NGA
+Nigeria,566.0,% of area equipped for irrigation salinized,4445.0,2018.0,30.1977955609,E,-,0.0,%,"(2018, 2022)",NGA
+Nigeria,566.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",NGA
+Nigeria,566.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",NGA
+North Macedonia,807.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",MKD
+North Macedonia,807.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",MKD
+Norway,578.0,Flood occurrence (WRI),4543.0,2017.0,1.3,I,-,0.0,-,"(2013, 2017)",NOR
+Norway,578.0,Flood occurrence (WRI),4543.0,2018.0,1.3,I,-,0.0,-,"(2018, 2022)",NOR
+Oman,512.0,Flood occurrence (WRI),4543.0,2017.0,1.9,I,-,0.0,-,"(2013, 2017)",OMN
+Oman,512.0,Flood occurrence (WRI),4543.0,2018.0,1.9,I,-,0.0,-,"(2018, 2022)",OMN
+Pakistan,586.0,Area salinized by irrigation,4400.0,2007.0,7003.0,I,-,0.0,· 1000 ha,"(2003, 2007)",PAK
+Pakistan,586.0,Area salinized by irrigation,4400.0,2012.0,7003.0,I,-,0.0,· 1000 ha,"(2008, 2012)",PAK
+Pakistan,586.0,Area salinized by irrigation,4400.0,2017.0,7003.0,I,-,0.0,· 1000 ha,"(2013, 2017)",PAK
+Pakistan,586.0,Area salinized by irrigation,4400.0,2018.0,7003.0,I,-,0.0,· 1000 ha,"(2018, 2022)",PAK
+Pakistan,586.0,% of area equipped for irrigation salinized,4445.0,2007.0,35.3316670764,E,-,0.0,%,"(2003, 2007)",PAK
+Pakistan,586.0,% of area equipped for irrigation salinized,4445.0,2012.0,35.0325162581,E,-,0.0,%,"(2008, 2012)",PAK
+Pakistan,586.0,% of area equipped for irrigation salinized,4445.0,2017.0,35.0325162581,E,-,0.0,%,"(2013, 2017)",PAK
+Pakistan,586.0,% of area equipped for irrigation salinized,4445.0,2018.0,35.0325162581,E,-,0.0,%,"(2018, 2022)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,1992.0,2977.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,1997.0,4439.5,I,-,0.0,· 1000 hectares,"(1993, 1997)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,2002.0,5902.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,2007.0,7072.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,2012.0,7072.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,2017.0,7072.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",PAK
+Pakistan,586.0,Area waterlogged by irrigation,4401.0,2018.0,7072.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",PAK
+Pakistan,586.0,Flood occurrence (WRI),4543.0,2017.0,3.9,I,-,0.0,-,"(2013, 2017)",PAK
+Pakistan,586.0,Flood occurrence (WRI),4543.0,2018.0,3.9,I,-,0.0,-,"(2018, 2022)",PAK
+Palestine,275.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",PSE
+Palestine,275.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",PSE
+Panama,591.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",PAN
+Panama,591.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",PAN
+Papua New Guinea,598.0,Flood occurrence (WRI),4543.0,2017.0,1.6,I,-,0.0,-,"(2013, 2017)",PNG
+Papua New Guinea,598.0,Flood occurrence (WRI),4543.0,2018.0,1.6,I,-,0.0,-,"(2018, 2022)",PNG
+Paraguay,600.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",PRY
+Paraguay,600.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",PRY
+Peru,604.0,Area salinized by irrigation,4400.0,1992.0,300.0,-,-,4951.0,· 1000 ha,"(1988, 1992)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,1997.0,300.0,I,-,0.0,· 1000 ha,"(1993, 1997)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,2002.0,300.0,I,-,0.0,· 1000 ha,"(1998, 2002)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,2007.0,300.0,I,-,0.0,· 1000 ha,"(2003, 2007)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,2012.0,300.0,I,-,0.0,· 1000 ha,"(2008, 2012)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,2017.0,300.0,I,-,0.0,· 1000 ha,"(2013, 2017)",PER
+Peru,604.0,Area salinized by irrigation,4400.0,2018.0,300.0,I,-,0.0,· 1000 ha,"(2018, 2022)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,1992.0,17.7763413058,E,-,0.0,%,"(1988, 1992)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,1997.0,16.0333208036,E,-,0.0,%,"(1993, 1997)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,2002.0,14.2360538081,E,-,0.0,%,"(1998, 2002)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,2007.0,12.8011044983,E,-,0.0,%,"(2003, 2007)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,2012.0,11.6279069767,E,-,0.0,%,"(2008, 2012)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,2017.0,11.6289436655,E,-,0.0,%,"(2013, 2017)",PER
+Peru,604.0,% of area equipped for irrigation salinized,4445.0,2018.0,11.6289436655,E,-,0.0,%,"(2018, 2022)",PER
+Peru,604.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",PER
+Peru,604.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",PER
+Philippines,608.0,Area salinized by irrigation,4400.0,2002.0,300.0,I,-,0.0,· 1000 ha,"(1998, 2002)",PHL
+Philippines,608.0,Area salinized by irrigation,4400.0,2007.0,300.0,I,-,0.0,· 1000 ha,"(2003, 2007)",PHL
+Philippines,608.0,Area salinized by irrigation,4400.0,2012.0,300.0,I,-,0.0,· 1000 ha,"(2008, 2012)",PHL
+Philippines,608.0,Area salinized by irrigation,4400.0,2017.0,300.0,I,-,0.0,· 1000 ha,"(2013, 2017)",PHL
+Philippines,608.0,Area salinized by irrigation,4400.0,2018.0,300.0,I,-,0.0,· 1000 ha,"(2018, 2022)",PHL
+Philippines,608.0,% of area equipped for irrigation salinized,4445.0,2002.0,16.9742339833,E,-,0.0,%,"(1998, 2002)",PHL
+Philippines,608.0,% of area equipped for irrigation salinized,4445.0,2007.0,16.3155559036,E,-,0.0,%,"(2003, 2007)",PHL
+Philippines,608.0,% of area equipped for irrigation salinized,4445.0,2012.0,17.3010380623,E,-,0.0,%,"(2008, 2012)",PHL
+Philippines,608.0,% of area equipped for irrigation salinized,4445.0,2017.0,15.8898305085,E,-,0.0,%,"(2013, 2017)",PHL
+Philippines,608.0,% of area equipped for irrigation salinized,4445.0,2018.0,15.625,E,-,0.0,%,"(2018, 2022)",PHL
+Philippines,608.0,Flood occurrence (WRI),4543.0,2017.0,4.0,I,-,0.0,-,"(2013, 2017)",PHL
+Philippines,608.0,Flood occurrence (WRI),4543.0,2018.0,4.0,I,-,0.0,-,"(2018, 2022)",PHL
+Poland,616.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",POL
+Poland,616.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",POL
+Portugal,620.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",PRT
+Portugal,620.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",PRT
+Qatar,634.0,Flood occurrence (WRI),4543.0,2017.0,0.0,I,-,0.0,-,"(2013, 2017)",QAT
+Qatar,634.0,Flood occurrence (WRI),4543.0,2018.0,0.0,I,-,0.0,-,"(2018, 2022)",QAT
+Republic of Korea,410.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",KOR
+Republic of Korea,410.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",KOR
+Republic of Moldova,498.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",MDA
+Republic of Moldova,498.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",MDA
+Romania,642.0,Area salinized by irrigation,4400.0,1992.0,400.0,I,-,0.0,· 1000 ha,"(1988, 1992)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,1997.0,400.0,I,-,0.0,· 1000 ha,"(1993, 1997)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,2002.0,400.0,I,-,0.0,· 1000 ha,"(1998, 2002)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,2007.0,400.0,I,-,0.0,· 1000 ha,"(2003, 2007)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,2012.0,400.0,I,-,0.0,· 1000 ha,"(2008, 2012)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,2017.0,400.0,I,-,0.0,· 1000 ha,"(2013, 2017)",ROU
+Romania,642.0,Area salinized by irrigation,4400.0,2018.0,400.0,I,-,0.0,· 1000 ha,"(2018, 2022)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,1992.0,12.9157248951,E,-,0.0,%,"(1988, 1992)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,1997.0,12.6750744661,E,-,0.0,%,"(1993, 1997)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,2002.0,26.8876530925,E,-,0.0,%,"(1998, 2002)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,2007.0,148.4208884464,E,-,0.0,%,"(2003, 2007)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,2012.0,311.5218599922,E,-,0.0,%,"(2008, 2012)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,2017.0,127.024452207,E,-,0.0,%,"(2013, 2017)",ROU
+Romania,642.0,% of area equipped for irrigation salinized,4445.0,2018.0,127.024452207,E,-,0.0,%,"(2018, 2022)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,1992.0,900.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,1997.0,900.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,2002.0,900.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,2007.0,900.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,2012.0,900.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,2017.0,900.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",ROU
+Romania,642.0,Area waterlogged by irrigation,4401.0,2018.0,900.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",ROU
+Romania,642.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",ROU
+Romania,642.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",ROU
+Russian Federation,643.0,Flood occurrence (WRI),4543.0,2017.0,2.0,I,-,0.0,-,"(2013, 2017)",RUS
+Russian Federation,643.0,Flood occurrence (WRI),4543.0,2018.0,2.0,I,-,0.0,-,"(2018, 2022)",RUS
+Rwanda,646.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",RWA
+Rwanda,646.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",RWA
+Saint Lucia,662.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",LCA
+Saint Lucia,662.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",LCA
+Saint Vincent and the Grenadines,670.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",VCT
+Saint Vincent and the Grenadines,670.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",VCT
+San Marino,674.0,Flood occurrence (WRI),4543.0,2017.0,2.3,I,-,0.0,-,"(2013, 2017)",SMR
+San Marino,674.0,Flood occurrence (WRI),4543.0,2018.0,2.3,I,-,0.0,-,"(2018, 2022)",SMR
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,1982.0,15.0,I,-,0.0,· 1000 hectares,"(1978, 1982)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,1987.0,15.0,I,-,0.0,· 1000 hectares,"(1983, 1987)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,1992.0,15.0,I,-,0.0,· 1000 hectares,"(1988, 1992)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,1997.0,15.0,I,-,0.0,· 1000 hectares,"(1993, 1997)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,2002.0,15.0,I,-,0.0,· 1000 hectares,"(1998, 2002)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,2007.0,15.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,2012.0,15.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,2017.0,15.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",SAU
+Saudi Arabia,682.0,Area waterlogged by irrigation,4401.0,2018.0,15.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",SAU
+Saudi Arabia,682.0,Flood occurrence (WRI),4543.0,2017.0,1.2,I,-,0.0,-,"(2013, 2017)",SAU
+Saudi Arabia,682.0,Flood occurrence (WRI),4543.0,2018.0,1.2,I,-,0.0,-,"(2018, 2022)",SAU
+Senegal,686.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",SEN
+Senegal,686.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",SEN
+Serbia,688.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",SRB
+Serbia,688.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",SRB
+Seychelles,690.0,Area salinized by irrigation,4400.0,2007.0,0.0,I,-,0.0,· 1000 ha,"(2003, 2007)",SYC
+Seychelles,690.0,Area salinized by irrigation,4400.0,2012.0,0.0,I,-,0.0,· 1000 ha,"(2008, 2012)",SYC
+Seychelles,690.0,Area salinized by irrigation,4400.0,2017.0,0.0,I,-,0.0,· 1000 ha,"(2013, 2017)",SYC
+Seychelles,690.0,Area salinized by irrigation,4400.0,2018.0,0.0,I,-,0.0,· 1000 ha,"(2018, 2022)",SYC
+Seychelles,690.0,% of area equipped for irrigation salinized,4445.0,2007.0,0.0,I,-,0.0,%,"(2003, 2007)",SYC
+Seychelles,690.0,% of area equipped for irrigation salinized,4445.0,2012.0,0.0,I,-,0.0,%,"(2008, 2012)",SYC
+Seychelles,690.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.0,I,-,0.0,%,"(2013, 2017)",SYC
+Seychelles,690.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.0,I,-,0.0,%,"(2018, 2022)",SYC
+Seychelles,690.0,Area waterlogged by irrigation,4401.0,2007.0,0.0,I,-,0.0,· 1000 hectares,"(2003, 2007)",SYC
+Seychelles,690.0,Area waterlogged by irrigation,4401.0,2012.0,0.0,I,-,0.0,· 1000 hectares,"(2008, 2012)",SYC
+Seychelles,690.0,Area waterlogged by irrigation,4401.0,2017.0,0.0,I,-,0.0,· 1000 hectares,"(2013, 2017)",SYC
+Seychelles,690.0,Area waterlogged by irrigation,4401.0,2018.0,0.0,I,-,0.0,· 1000 hectares,"(2018, 2022)",SYC
+Sierra Leone,694.0,Flood occurrence (WRI),4543.0,2017.0,1.6,I,-,0.0,-,"(2013, 2017)",SLE
+Sierra Leone,694.0,Flood occurrence (WRI),4543.0,2018.0,1.6,I,-,0.0,-,"(2018, 2022)",SLE
+Singapore,702.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",SGP
+Singapore,702.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",SGP
+Slovakia,703.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",SVK
+Slovakia,703.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",SVK
+Slovenia,705.0,Flood occurrence (WRI),4543.0,2017.0,3.5,I,-,0.0,-,"(2013, 2017)",SVN
+Slovenia,705.0,Flood occurrence (WRI),4543.0,2018.0,3.5,I,-,0.0,-,"(2018, 2022)",SVN
+Somalia,706.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",SOM
+Somalia,706.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",SOM
+South Africa,710.0,Area salinized by irrigation,4400.0,1987.0,100.0,-,-,6033.0,· 1000 ha,"(1983, 1987)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,1992.0,100.0,I,-,0.0,· 1000 ha,"(1988, 1992)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,1997.0,100.0,I,-,0.0,· 1000 ha,"(1993, 1997)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,2002.0,100.0,I,-,0.0,· 1000 ha,"(1998, 2002)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,2007.0,100.0,I,-,0.0,· 1000 ha,"(2003, 2007)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,2012.0,100.0,I,-,0.0,· 1000 ha,"(2008, 2012)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,2017.0,100.0,I,-,0.0,· 1000 ha,"(2013, 2017)",ZAF
+South Africa,710.0,Area salinized by irrigation,4400.0,2018.0,100.0,I,-,0.0,· 1000 ha,"(2018, 2022)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,1992.0,8.174386921,E,-,0.0,%,"(1988, 1992)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,1997.0,7.1083309639,E,-,0.0,%,"(1993, 1997)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,2002.0,6.6401062417,E,-,0.0,%,"(1998, 2002)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,2007.0,6.5530799476,E,-,0.0,%,"(2003, 2007)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,2012.0,5.9880239521,E,-,0.0,%,"(2008, 2012)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,2017.0,5.9880239521,E,-,0.0,%,"(2013, 2017)",ZAF
+South Africa,710.0,% of area equipped for irrigation salinized,4445.0,2018.0,5.9880239521,E,-,0.0,%,"(2018, 2022)",ZAF
+South Africa,710.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",ZAF
+South Africa,710.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",ZAF
+South Sudan,728.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",SSD
+South Sudan,728.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",SSD
+Spain,724.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",ESP
+Spain,724.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",ESP
+Sri Lanka,144.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",LKA
+Sri Lanka,144.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",LKA
+Sudan,729.0,Flood occurrence (WRI),4543.0,2017.0,3.3,I,-,0.0,-,"(2013, 2017)",SDN
+Sudan,729.0,Flood occurrence (WRI),4543.0,2018.0,3.3,I,-,0.0,-,"(2018, 2022)",SDN
+Suriname,740.0,Flood occurrence (WRI),4543.0,2017.0,1.4,I,-,0.0,-,"(2013, 2017)",SUR
+Suriname,740.0,Flood occurrence (WRI),4543.0,2018.0,1.4,I,-,0.0,-,"(2018, 2022)",SUR
+Sweden,752.0,Flood occurrence (WRI),4543.0,2017.0,0.4,I,-,0.0,-,"(2013, 2017)",SWE
+Sweden,752.0,Flood occurrence (WRI),4543.0,2018.0,0.4,I,-,0.0,-,"(2018, 2022)",SWE
+Switzerland,756.0,Area salinized by irrigation,4400.0,2017.0,0.0,-,-,7230.0,· 1000 ha,"(2013, 2017)",CHE
+Switzerland,756.0,Area salinized by irrigation,4400.0,2018.0,0.0,I,-,0.0,· 1000 ha,"(2018, 2022)",CHE
+Switzerland,756.0,% of area equipped for irrigation salinized,4445.0,2017.0,0.0,I,-,0.0,%,"(2013, 2017)",CHE
+Switzerland,756.0,% of area equipped for irrigation salinized,4445.0,2018.0,0.0,I,-,0.0,%,"(2018, 2022)",CHE
+Switzerland,756.0,Flood occurrence (WRI),4543.0,2017.0,3.2,I,-,0.0,-,"(2013, 2017)",CHE
+Switzerland,756.0,Flood occurrence (WRI),4543.0,2018.0,3.2,I,-,0.0,-,"(2018, 2022)",CHE
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,1992.0,60.0,I,-,0.0,· 1000 ha,"(1988, 1992)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,1997.0,60.0,I,-,0.0,· 1000 ha,"(1993, 1997)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,2002.0,60.0,I,-,0.0,· 1000 ha,"(1998, 2002)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,2007.0,60.0,I,-,0.0,· 1000 ha,"(2003, 2007)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,2012.0,60.0,I,-,0.0,· 1000 ha,"(2008, 2012)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,2017.0,60.0,I,-,0.0,· 1000 ha,"(2013, 2017)",SYR
+Syrian Arab Republic,760.0,Area salinized by irrigation,4400.0,2018.0,60.0,I,-,0.0,· 1000 ha,"(2018, 2022)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,1997.0,5.2624654651,E,-,0.0,%,"(1993, 1997)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,2002.0,4.5309235533,E,-,0.0,%,"(1998, 2002)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,2007.0,4.295532646,E,-,0.0,%,"(2003, 2007)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,2012.0,4.4742729306,E,-,0.0,%,"(2008, 2012)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,2017.0,4.4742729306,E,-,0.0,%,"(2013, 2017)",SYR
+Syrian Arab Republic,760.0,% of area equipped for irrigation salinized,4445.0,2018.0,4.4742729306,E,-,0.0,%,"(2018, 2022)",SYR
+Syrian Arab Republic,760.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",SYR
+Syrian Arab Republic,760.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",SYR
+Tajikistan,762.0,Area salinized by irrigation,4400.0,1997.0,96.646,I,-,0.0,· 1000 ha,"(1993, 1997)",TJK
+Tajikistan,762.0,Area salinized by irrigation,4400.0,2002.0,66.056,I,-,0.0,· 1000 ha,"(1998, 2002)",TJK
+Tajikistan,762.0,Area salinized by irrigation,4400.0,2007.0,35.466,I,-,0.0,· 1000 ha,"(2003, 2007)",TJK
+Tajikistan,762.0,Area salinized by irrigation,4400.0,2012.0,23.23,I,-,0.0,· 1000 ha,"(2008, 2012)",TJK
+Tajikistan,762.0,Area salinized by irrigation,4400.0,2017.0,23.23,I,-,0.0,· 1000 ha,"(2013, 2017)",TJK
+Tajikistan,762.0,Area salinized by irrigation,4400.0,2018.0,23.23,I,-,0.0,· 1000 ha,"(2018, 2022)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,1997.0,13.3529525546,E,-,0.0,%,"(1993, 1997)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,2002.0,9.1846496107,E,-,0.0,%,"(1998, 2002)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,2007.0,4.7988850501,E,-,0.0,%,"(2003, 2007)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,2012.0,3.1303058887,I,-,0.0,%,"(2008, 2012)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,2017.0,3.1303058887,I,-,0.0,%,"(2013, 2017)",TJK
+Tajikistan,762.0,% of area equipped for irrigation salinized,4445.0,2018.0,3.1303058887,I,-,0.0,%,"(2018, 2022)",TJK
+Tajikistan,762.0,Area waterlogged by irrigation,4401.0,2012.0,25.74,I,-,0.0,· 1000 hectares,"(2008, 2012)",TJK
+Tajikistan,762.0,Area waterlogged by irrigation,4401.0,2017.0,25.74,I,-,0.0,· 1000 hectares,"(2013, 2017)",TJK
+Tajikistan,762.0,Area waterlogged by irrigation,4401.0,2018.0,25.74,I,-,0.0,· 1000 hectares,"(2018, 2022)",TJK
+Tajikistan,762.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",TJK
+Tajikistan,762.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",TJK
+Thailand,764.0,Area salinized by irrigation,4400.0,2002.0,400.0,I,-,0.0,· 1000 ha,"(1998, 2002)",THA
+Thailand,764.0,Area salinized by irrigation,4400.0,2007.0,400.0,I,-,0.0,· 1000 ha,"(2003, 2007)",THA
+Thailand,764.0,Area salinized by irrigation,4400.0,2012.0,400.0,I,-,0.0,· 1000 ha,"(2008, 2012)",THA
+Thailand,764.0,Area salinized by irrigation,4400.0,2017.0,400.0,I,-,0.0,· 1000 ha,"(2013, 2017)",THA
+Thailand,764.0,Area salinized by irrigation,4400.0,2018.0,400.0,I,-,0.0,· 1000 ha,"(2018, 2022)",THA
+Thailand,764.0,% of area equipped for irrigation salinized,4445.0,2002.0,7.0469059678,E,-,0.0,%,"(1998, 2002)",THA
+Thailand,764.0,% of area equipped for irrigation salinized,4445.0,2007.0,6.2353858145,E,-,0.0,%,"(2003, 2007)",THA
+Thailand,764.0,% of area equipped for irrigation salinized,4445.0,2012.0,6.2353858145,E,-,0.0,%,"(2008, 2012)",THA
+Thailand,764.0,% of area equipped for irrigation salinized,4445.0,2017.0,6.2353858145,E,-,0.0,%,"(2013, 2017)",THA
+Thailand,764.0,% of area equipped for irrigation salinized,4445.0,2018.0,6.2353858145,E,-,0.0,%,"(2018, 2022)",THA
+Thailand,764.0,Flood occurrence (WRI),4543.0,2017.0,3.7,I,-,0.0,-,"(2013, 2017)",THA
+Thailand,764.0,Flood occurrence (WRI),4543.0,2018.0,3.7,I,-,0.0,-,"(2018, 2022)",THA
+Timor-Leste,626.0,Flood occurrence (WRI),4543.0,2017.0,2.2,I,-,0.0,-,"(2013, 2017)",TLS
+Timor-Leste,626.0,Flood occurrence (WRI),4543.0,2018.0,2.2,I,-,0.0,-,"(2018, 2022)",TLS
+Togo,768.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",TGO
+Togo,768.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",TGO
+Trinidad and Tobago,780.0,Flood occurrence (WRI),4543.0,2017.0,2.2,I,-,0.0,-,"(2013, 2017)",TTO
+Trinidad and Tobago,780.0,Flood occurrence (WRI),4543.0,2018.0,2.2,I,-,0.0,-,"(2018, 2022)",TTO
+Tunisia,788.0,Area salinized by irrigation,4400.0,2002.0,92.7058823529,I,-,0.0,· 1000 ha,"(1998, 2002)",TUN
+Tunisia,788.0,Area salinized by irrigation,4400.0,2007.0,126.2352941176,I,-,0.0,· 1000 ha,"(2003, 2007)",TUN
+Tunisia,788.0,Area salinized by irrigation,4400.0,2012.0,159.7647058824,I,-,0.0,· 1000 ha,"(2008, 2012)",TUN
+Tunisia,788.0,Area salinized by irrigation,4400.0,2017.0,193.2941176471,I,-,0.0,· 1000 ha,"(2013, 2017)",TUN
+Tunisia,788.0,Area salinized by irrigation,4400.0,2018.0,200.0,-,-,7223.0,· 1000 ha,"(2018, 2022)",TUN
+Tunisia,788.0,% of area equipped for irrigation salinized,4445.0,2002.0,23.4401725292,E,-,0.0,%,"(1998, 2002)",TUN
+Tunisia,788.0,% of area equipped for irrigation salinized,4445.0,2007.0,27.421590989,E,-,0.0,%,"(2003, 2007)",TUN
+Tunisia,788.0,% of area equipped for irrigation salinized,4445.0,2012.0,32.7924273158,E,-,0.0,%,"(2008, 2012)",TUN
+Tunisia,788.0,% of area equipped for irrigation salinized,4445.0,2017.0,39.0714177003,E,-,0.0,%,"(2013, 2017)",TUN
+Tunisia,788.0,% of area equipped for irrigation salinized,4445.0,2018.0,40.3771223225,E,-,0.0,%,"(2018, 2022)",TUN
+Tunisia,788.0,Area waterlogged by irrigation,4401.0,2002.0,54.4444444444,I,-,0.0,· 1000 hectares,"(1998, 2002)",TUN
+Tunisia,788.0,Area waterlogged by irrigation,4401.0,2007.0,65.5555555556,I,-,0.0,· 1000 hectares,"(2003, 2007)",TUN
+Tunisia,788.0,Area waterlogged by irrigation,4401.0,2012.0,76.6666666667,I,-,0.0,· 1000 hectares,"(2008, 2012)",TUN
+Tunisia,788.0,Area waterlogged by irrigation,4401.0,2017.0,87.7777777778,I,-,0.0,· 1000 hectares,"(2013, 2017)",TUN
+Tunisia,788.0,Area waterlogged by irrigation,4401.0,2018.0,90.0,-,-,7223.0,· 1000 hectares,"(2018, 2022)",TUN
+Tunisia,788.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",TUN
+Tunisia,788.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",TUN
+Turkey,792.0,Area salinized by irrigation,4400.0,2007.0,1519.0,I,-,0.0,· 1000 ha,"(2003, 2007)",TUR
+Turkey,792.0,Area salinized by irrigation,4400.0,2012.0,1519.0,I,-,0.0,· 1000 ha,"(2008, 2012)",TUR
+Turkey,792.0,Area salinized by irrigation,4400.0,2017.0,1519.0,I,-,0.0,· 1000 ha,"(2013, 2017)",TUR
+Turkey,792.0,Area salinized by irrigation,4400.0,2018.0,1519.0,I,-,0.0,· 1000 ha,"(2018, 2022)",TUR
+Turkey,792.0,% of area equipped for irrigation salinized,4445.0,2007.0,30.1129980837,E,-,0.0,%,"(2003, 2007)",TUR
+Turkey,792.0,% of area equipped for irrigation salinized,4445.0,2012.0,28.376611246,E,-,0.0,%,"(2008, 2012)",TUR
+Turkey,792.0,% of area equipped for irrigation salinized,4445.0,2017.0,28.376611246,E,-,0.0,%,"(2013, 2017)",TUR
+Turkey,792.0,% of area equipped for irrigation salinized,4445.0,2018.0,28.376611246,E,-,0.0,%,"(2018, 2022)",TUR
+Turkey,792.0,Flood occurrence (WRI),4543.0,2017.0,2.6,I,-,0.0,-,"(2013, 2017)",TUR
+Turkey,792.0,Flood occurrence (WRI),4543.0,2018.0,2.6,I,-,0.0,-,"(2018, 2022)",TUR
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,1997.0,915.4375,I,-,0.0,· 1000 ha,"(1993, 1997)",TKM
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,2002.0,1354.0,-," [P-Adjustment-N] | Including lands with medium and high salinity""",6092.0,· 1000 ha,"(1998, 2002)",TKM
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,2007.0,1354.0,I,-,0.0,· 1000 ha,"(2003, 2007)",TKM
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,2012.0,1354.0,I,-,0.0,· 1000 ha,"(2008, 2012)",TKM
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,2017.0,1354.0,I,-,0.0,· 1000 ha,"(2013, 2017)",TKM
+Turkmenistan,795.0,Area salinized by irrigation,4400.0,2018.0,1354.0,I,-,0.0,· 1000 ha,"(2018, 2022)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,1997.0,50.6872733313,E,-,0.0,%,"(1993, 1997)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,2002.0,70.9346186085,E,-,0.0,%,"(1998, 2002)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,2007.0,68.006027122,E,-,0.0,%,"(2003, 2007)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,2012.0,68.006027122,E,-,0.0,%,"(2008, 2012)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,2017.0,68.006027122,E,-,0.0,%,"(2013, 2017)",TKM
+Turkmenistan,795.0,% of area equipped for irrigation salinized,4445.0,2018.0,68.006027122,E,-,0.0,%,"(2018, 2022)",TKM
+Turkmenistan,795.0,Area waterlogged by irrigation,4401.0,2002.0,756.5,-,-,6092.0,· 1000 hectares,"(1998, 2002)",TKM
+Turkmenistan,795.0,Area waterlogged by irrigation,4401.0,2007.0,756.5,I,-,0.0,· 1000 hectares,"(2003, 2007)",TKM
+Turkmenistan,795.0,Area waterlogged by irrigation,4401.0,2012.0,756.5,I,-,0.0,· 1000 hectares,"(2008, 2012)",TKM
+Turkmenistan,795.0,Area waterlogged by irrigation,4401.0,2017.0,756.5,I,-,0.0,· 1000 hectares,"(2013, 2017)",TKM
+Turkmenistan,795.0,Area waterlogged by irrigation,4401.0,2018.0,756.5,I,-,0.0,· 1000 hectares,"(2018, 2022)",TKM
+Turkmenistan,795.0,Flood occurrence (WRI),4543.0,2017.0,1.8,I,-,0.0,-,"(2013, 2017)",TKM
+Turkmenistan,795.0,Flood occurrence (WRI),4543.0,2018.0,1.8,I,-,0.0,-,"(2018, 2022)",TKM
+Uganda,800.0,Flood occurrence (WRI),4543.0,2017.0,3.6,I,-,0.0,-,"(2013, 2017)",UGA
+Uganda,800.0,Flood occurrence (WRI),4543.0,2018.0,3.6,I,-,0.0,-,"(2018, 2022)",UGA
+Ukraine,804.0,Flood occurrence (WRI),4543.0,2017.0,2.4,I,-,0.0,-,"(2013, 2017)",UKR
+Ukraine,804.0,Flood occurrence (WRI),4543.0,2018.0,2.4,I,-,0.0,-,"(2018, 2022)",UKR
+United Arab Emirates,784.0,Flood occurrence (WRI),4543.0,2017.0,1.2,I,-,0.0,-,"(2013, 2017)",ARE
+United Arab Emirates,784.0,Flood occurrence (WRI),4543.0,2018.0,1.2,I,-,0.0,-,"(2018, 2022)",ARE
+United Kingdom,826.0,Flood occurrence (WRI),4543.0,2017.0,3.4,I,-,0.0,-,"(2013, 2017)",GBR
+United Kingdom,826.0,Flood occurrence (WRI),4543.0,2018.0,3.4,I,-,0.0,-,"(2018, 2022)",GBR
+United Republic of Tanzania,834.0,Area salinized by irrigation,4400.0,2002.0,50.0,I,-,0.0,· 1000 ha,"(1998, 2002)",TZA
+United Republic of Tanzania,834.0,Area salinized by irrigation,4400.0,2007.0,50.0,I,-,0.0,· 1000 ha,"(2003, 2007)",TZA
+United Republic of Tanzania,834.0,Area salinized by irrigation,4400.0,2012.0,50.0,I,-,0.0,· 1000 ha,"(2008, 2012)",TZA
+United Republic of Tanzania,834.0,Area salinized by irrigation,4400.0,2017.0,50.0,I,-,0.0,· 1000 ha,"(2013, 2017)",TZA
+United Republic of Tanzania,834.0,Area salinized by irrigation,4400.0,2018.0,50.0,I,-,0.0,· 1000 ha,"(2018, 2022)",TZA
+United Republic of Tanzania,834.0,% of area equipped for irrigation salinized,4445.0,2002.0,27.1296798698,E,-,0.0,%,"(1998, 2002)",TZA
+United Republic of Tanzania,834.0,% of area equipped for irrigation salinized,4445.0,2007.0,20.0904068307,E,-,0.0,%,"(2003, 2007)",TZA
+United Republic of Tanzania,834.0,% of area equipped for irrigation salinized,4445.0,2012.0,20.3200406401,E,-,0.0,%,"(2008, 2012)",TZA
+United Republic of Tanzania,834.0,% of area equipped for irrigation salinized,4445.0,2017.0,13.7551581843,E,-,0.0,%,"(2013, 2017)",TZA
+United Republic of Tanzania,834.0,% of area equipped for irrigation salinized,4445.0,2018.0,13.7551581843,E,-,0.0,%,"(2018, 2022)",TZA
+United Republic of Tanzania,834.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",TZA
+United Republic of Tanzania,834.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",TZA
+United States of America,840.0,Area salinized by irrigation,4400.0,1987.0,4200.0,-,-,6033.0,· 1000 ha,"(1983, 1987)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,1992.0,4200.0,I,-,0.0,· 1000 ha,"(1988, 1992)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,1997.0,4200.0,I,-,0.0,· 1000 ha,"(1993, 1997)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,2002.0,4200.0,I,-,0.0,· 1000 ha,"(1998, 2002)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,2007.0,4200.0,I,-,0.0,· 1000 ha,"(2003, 2007)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,2012.0,4200.0,I,-,0.0,· 1000 ha,"(2008, 2012)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,2017.0,4200.0,I,-,0.0,· 1000 ha,"(2013, 2017)",USA
+United States of America,840.0,Area salinized by irrigation,4400.0,2018.0,4200.0,I,-,0.0,· 1000 ha,"(2018, 2022)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,1987.0,15.7498031275,E,-,0.0,%,"(1983, 1987)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,1992.0,15.5486450466,E,-,0.0,%,"(1988, 1992)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,1997.0,15.5153306243,E,-,0.0,%,"(1993, 1997)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,2002.0,15.5919367413,E,-,0.0,%,"(1998, 2002)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,2007.0,15.6036378767,E,-,0.0,%,"(2003, 2007)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,2012.0,15.7256252808,E,-,0.0,%,"(2008, 2012)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,2017.0,15.7256252808,E,-,0.0,%,"(2013, 2017)",USA
+United States of America,840.0,% of area equipped for irrigation salinized,4445.0,2018.0,15.7256252808,E,-,0.0,%,"(2018, 2022)",USA
+United States of America,840.0,Flood occurrence (WRI),4543.0,2017.0,3.1,I,-,0.0,-,"(2013, 2017)",USA
+United States of America,840.0,Flood occurrence (WRI),4543.0,2018.0,3.1,I,-,0.0,-,"(2018, 2022)",USA
+Uruguay,858.0,Flood occurrence (WRI),4543.0,2017.0,3.0,I,-,0.0,-,"(2013, 2017)",URY
+Uruguay,858.0,Flood occurrence (WRI),4543.0,2018.0,3.0,I,-,0.0,-,"(2018, 2022)",URY
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,1997.0,2126.6,I,-,0.0,· 1000 ha,"(1993, 1997)",UZB
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,2002.0,2102.6,I,-,0.0,· 1000 ha,"(1998, 2002)",UZB
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,2007.0,2078.6,I,-,0.0,· 1000 ha,"(2003, 2007)",UZB
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,2012.0,2054.6,I,-,0.0,· 1000 ha,"(2008, 2012)",UZB
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,2017.0,1175.0,-,-,6909.0,· 1000 ha,"(2013, 2017)",UZB
+Uzbekistan,860.0,Area salinized by irrigation,4400.0,2018.0,1175.0,I,-,0.0,· 1000 ha,"(2018, 2022)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,1997.0,49.6809959561,E,-,0.0,%,"(1993, 1997)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,2002.0,49.1203151026,E,-,0.0,%,"(1998, 2002)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,2007.0,48.5596342492,E,-,0.0,%,"(2003, 2007)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,2012.0,47.9989533957,E,-,0.0,%,"(2008, 2012)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,2017.0,27.2811701881,E,-,0.0,%,"(2013, 2017)",UZB
+Uzbekistan,860.0,% of area equipped for irrigation salinized,4445.0,2018.0,27.4500001168,E,-,0.0,%,"(2018, 2022)",UZB
+Uzbekistan,860.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",UZB
+Uzbekistan,860.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",UZB
+Venezuela (Bolivarian Republic of),862.0,Flood occurrence (WRI),4543.0,2017.0,2.7,I,-,0.0,-,"(2013, 2017)",VEN
+Venezuela (Bolivarian Republic of),862.0,Flood occurrence (WRI),4543.0,2018.0,2.7,I,-,0.0,-,"(2018, 2022)",VEN
+Viet Nam,704.0,Area salinized by irrigation,4400.0,2002.0,300.0,I,-,0.0,· 1000 ha,"(1998, 2002)",VNM
+Viet Nam,704.0,Area salinized by irrigation,4400.0,2007.0,300.0,I,-,0.0,· 1000 ha,"(2003, 2007)",VNM
+Viet Nam,704.0,Area salinized by irrigation,4400.0,2012.0,300.0,I,-,0.0,· 1000 ha,"(2008, 2012)",VNM
+Viet Nam,704.0,Area salinized by irrigation,4400.0,2017.0,300.0,I,-,0.0,· 1000 ha,"(2013, 2017)",VNM
+Viet Nam,704.0,Area salinized by irrigation,4400.0,2018.0,300.0,I,-,0.0,· 1000 ha,"(2018, 2022)",VNM
+Viet Nam,704.0,% of area equipped for irrigation salinized,4445.0,2002.0,7.225433526,E,-,0.0,%,"(1998, 2002)",VNM
+Viet Nam,704.0,% of area equipped for irrigation salinized,4445.0,2007.0,6.5429325424,E,-,0.0,%,"(2003, 2007)",VNM
+Viet Nam,704.0,% of area equipped for irrigation salinized,4445.0,2012.0,6.5429325424,E,-,0.0,%,"(2008, 2012)",VNM
+Viet Nam,704.0,% of area equipped for irrigation salinized,4445.0,2017.0,6.5429325424,E,-,0.0,%,"(2013, 2017)",VNM
+Viet Nam,704.0,% of area equipped for irrigation salinized,4445.0,2018.0,6.5429325424,E,-,0.0,%,"(2018, 2022)",VNM
+Viet Nam,704.0,Flood occurrence (WRI),4543.0,2017.0,3.8,I,-,0.0,-,"(2013, 2017)",VNM
+Viet Nam,704.0,Flood occurrence (WRI),4543.0,2018.0,3.8,I,-,0.0,-,"(2018, 2022)",VNM
+Yemen,887.0,Flood occurrence (WRI),4543.0,2017.0,2.9,I,-,0.0,-,"(2013, 2017)",YEM
+Yemen,887.0,Flood occurrence (WRI),4543.0,2018.0,2.9,I,-,0.0,-,"(2018, 2022)",YEM
+Zambia,894.0,Flood occurrence (WRI),4543.0,2017.0,2.5,I,-,0.0,-,"(2013, 2017)",ZMB
+Zambia,894.0,Flood occurrence (WRI),4543.0,2018.0,2.5,I,-,0.0,-,"(2018, 2022)",ZMB
+Zimbabwe,716.0,Flood occurrence (WRI),4543.0,2017.0,2.8,I,-,0.0,-,"(2013, 2017)",ZWE
+Zimbabwe,716.0,Flood occurrence (WRI),4543.0,2018.0,2.8,I,-,0.0,-,"(2018, 2022)",ZWE

@@ -1,0 +1,161 @@
+Area,AreaId,VariableName,VariableId,Year,Value,Symbol,Md1,Md2,Units,Period,ISOCode
+Argentina,32.0,Population affected by water related disease,4403.0,2012.0,5607.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",ARG
+Argentina,32.0,Population affected by water related disease,4403.0,2017.0,5607.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",ARG
+Argentina,32.0,Population affected by water related disease,4403.0,2018.0,5607.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",ARG
+Armenia,51.0,Population affected by water related disease,4403.0,2002.0,1.644,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",ARM
+Armenia,51.0,Population affected by water related disease,4403.0,2007.0,1.644,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",ARM
+Armenia,51.0,Population affected by water related disease,4403.0,2012.0,1.644,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",ARM
+Armenia,51.0,Population affected by water related disease,4403.0,2017.0,1.644,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",ARM
+Armenia,51.0,Population affected by water related disease,4403.0,2018.0,1.644,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",ARM
+Burkina Faso,854.0,Population affected by water related disease,4403.0,2002.0,1206.7,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",BFA
+Burkina Faso,854.0,Population affected by water related disease,4403.0,2007.0,3965.2,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",BFA
+Burkina Faso,854.0,Population affected by water related disease,4403.0,2012.0,6172.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",BFA
+Burkina Faso,854.0,Population affected by water related disease,4403.0,2017.0,6172.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",BFA
+Burkina Faso,854.0,Population affected by water related disease,4403.0,2018.0,6172.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",BFA
+Cambodia,116.0,Population affected by water related disease,4403.0,1997.0,507.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",KHM
+Cambodia,116.0,Population affected by water related disease,4403.0,2002.0,507.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",KHM
+Cambodia,116.0,Population affected by water related disease,4403.0,2007.0,507.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",KHM
+Cambodia,116.0,Population affected by water related disease,4403.0,2012.0,507.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",KHM
+Cambodia,116.0,Population affected by water related disease,4403.0,2017.0,507.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",KHM
+Cambodia,116.0,Population affected by water related disease,4403.0,2018.0,507.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",KHM
+Colombia,170.0,Population affected by water related disease,4403.0,1997.0,42.2338,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",COL
+Colombia,170.0,Population affected by water related disease,4403.0,2002.0,27.5901333333,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",COL
+Colombia,170.0,Population affected by water related disease,4403.0,2007.0,12.9464666667,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",COL
+Colombia,170.0,Population affected by water related disease,4403.0,2012.0,7.089,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",COL
+Colombia,170.0,Population affected by water related disease,4403.0,2017.0,7.089,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",COL
+Colombia,170.0,Population affected by water related disease,4403.0,2018.0,7.089,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",COL
+Congo,178.0,Population affected by water related disease,4403.0,2002.0,175.2,-,-,0.0,· 1000 inhabitants,"(1998, 2002)",COG
+Congo,178.0,Population affected by water related disease,4403.0,2007.0,175.2,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",COG
+Congo,178.0,Population affected by water related disease,4403.0,2012.0,175.2,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",COG
+Congo,178.0,Population affected by water related disease,4403.0,2017.0,175.2,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",COG
+Congo,178.0,Population affected by water related disease,4403.0,2018.0,175.2,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",COG
+Costa Rica,188.0,Population affected by water related disease,4403.0,2012.0,315.9,-,-,6392.0,· 1000 inhabitants,"(2008, 2012)",CRI
+Costa Rica,188.0,Population affected by water related disease,4403.0,2017.0,315.9,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",CRI
+Costa Rica,188.0,Population affected by water related disease,4403.0,2018.0,315.9,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",CRI
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,1997.0,1423.0,-,-,0.0,· 1000 inhabitants,"(1993, 1997)",CIV
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,2002.0,1423.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",CIV
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,2007.0,1423.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",CIV
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,2012.0,1423.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",CIV
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,2017.0,1423.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",CIV
+Côte d'Ivoire,384.0,Population affected by water related disease,4403.0,2018.0,1423.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",CIV
+Cuba,192.0,Population affected by water related disease,4403.0,1997.0,1033.0,-,-,0.0,· 1000 inhabitants,"(1993, 1997)",CUB
+Cuba,192.0,Population affected by water related disease,4403.0,2002.0,1033.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",CUB
+Cuba,192.0,Population affected by water related disease,4403.0,2007.0,1033.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",CUB
+Cuba,192.0,Population affected by water related disease,4403.0,2012.0,1033.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",CUB
+Cuba,192.0,Population affected by water related disease,4403.0,2017.0,1033.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",CUB
+Cuba,192.0,Population affected by water related disease,4403.0,2018.0,1033.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",CUB
+Ecuador,218.0,Population affected by water related disease,4403.0,2002.0,8.57,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",ECU
+Ecuador,218.0,Population affected by water related disease,4403.0,2007.0,8.57,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",ECU
+Ecuador,218.0,Population affected by water related disease,4403.0,2012.0,8.57,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",ECU
+Ecuador,218.0,Population affected by water related disease,4403.0,2017.0,8.57,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",ECU
+Ecuador,218.0,Population affected by water related disease,4403.0,2018.0,8.57,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",ECU
+El Salvador,222.0,Population affected by water related disease,4403.0,1997.0,12.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",SLV
+El Salvador,222.0,Population affected by water related disease,4403.0,2002.0,12.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",SLV
+El Salvador,222.0,Population affected by water related disease,4403.0,2007.0,12.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",SLV
+El Salvador,222.0,Population affected by water related disease,4403.0,2012.0,12.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",SLV
+El Salvador,222.0,Population affected by water related disease,4403.0,2017.0,12.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",SLV
+El Salvador,222.0,Population affected by water related disease,4403.0,2018.0,12.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",SLV
+Eswatini,748.0,Population affected by water related disease,4403.0,2002.0,2.926,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",SWZ
+Eswatini,748.0,Population affected by water related disease,4403.0,2007.0,2.926,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",SWZ
+Eswatini,748.0,Population affected by water related disease,4403.0,2012.0,2.926,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",SWZ
+Eswatini,748.0,Population affected by water related disease,4403.0,2017.0,2.926,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",SWZ
+Eswatini,748.0,Population affected by water related disease,4403.0,2018.0,2.926,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",SWZ
+Guatemala,320.0,Population affected by water related disease,4403.0,1997.0,1880.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",GTM
+Guatemala,320.0,Population affected by water related disease,4403.0,2002.0,1880.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",GTM
+Guatemala,320.0,Population affected by water related disease,4403.0,2007.0,1880.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",GTM
+Guatemala,320.0,Population affected by water related disease,4403.0,2012.0,1880.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",GTM
+Guatemala,320.0,Population affected by water related disease,4403.0,2017.0,1880.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",GTM
+Guatemala,320.0,Population affected by water related disease,4403.0,2018.0,1880.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",GTM
+India,356.0,Population affected by water related disease,4403.0,1997.0,34239.5,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",IND
+India,356.0,Population affected by water related disease,4403.0,2002.0,44000.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",IND
+India,356.0,Population affected by water related disease,4403.0,2007.0,44000.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",IND
+India,356.0,Population affected by water related disease,4403.0,2012.0,44000.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",IND
+India,356.0,Population affected by water related disease,4403.0,2017.0,44000.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",IND
+India,356.0,Population affected by water related disease,4403.0,2018.0,44000.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",IND
+Indonesia,360.0,Population affected by water related disease,4403.0,2007.0,5.111,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",IDN
+Indonesia,360.0,Population affected by water related disease,4403.0,2012.0,5.111,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",IDN
+Indonesia,360.0,Population affected by water related disease,4403.0,2017.0,5.111,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",IDN
+Indonesia,360.0,Population affected by water related disease,4403.0,2018.0,5.111,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",IDN
+Kazakhstan,398.0,Population affected by water related disease,4403.0,2002.0,3.22,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",KAZ
+Kazakhstan,398.0,Population affected by water related disease,4403.0,2007.0,3.22,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",KAZ
+Kazakhstan,398.0,Population affected by water related disease,4403.0,2012.0,3.22,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",KAZ
+Kazakhstan,398.0,Population affected by water related disease,4403.0,2017.0,3.22,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",KAZ
+Kazakhstan,398.0,Population affected by water related disease,4403.0,2018.0,3.22,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",KAZ
+Kyrgyzstan,417.0,Population affected by water related disease,4403.0,2007.0,122.8,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",KGZ
+Kyrgyzstan,417.0,Population affected by water related disease,4403.0,2012.0,122.8,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",KGZ
+Kyrgyzstan,417.0,Population affected by water related disease,4403.0,2017.0,122.8,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",KGZ
+Kyrgyzstan,417.0,Population affected by water related disease,4403.0,2018.0,122.8,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",KGZ
+Malaysia,458.0,Population affected by water related disease,4403.0,1992.0,7.0,-,-,1039.0,· 1000 inhabitants,"(1988, 1992)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,1997.0,7.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,2002.0,7.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,2007.0,7.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,2012.0,7.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,2017.0,7.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",MYS
+Malaysia,458.0,Population affected by water related disease,4403.0,2018.0,7.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",MYS
+Mali,466.0,Population affected by water related disease,4403.0,2012.0,2291.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",MLI
+Mali,466.0,Population affected by water related disease,4403.0,2017.0,2291.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",MLI
+Mali,466.0,Population affected by water related disease,4403.0,2018.0,2291.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",MLI
+Mauritania,478.0,Population affected by water related disease,4403.0,2007.0,111.6,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",MRT
+Mauritania,478.0,Population affected by water related disease,4403.0,2012.0,111.6,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",MRT
+Mauritania,478.0,Population affected by water related disease,4403.0,2017.0,111.6,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",MRT
+Mauritania,478.0,Population affected by water related disease,4403.0,2018.0,111.6,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",MRT
+Mauritius,480.0,Population affected by water related disease,4403.0,2002.0,0.0,-,-,4961.0,· 1000 inhabitants,"(1998, 2002)",MUS
+Mauritius,480.0,Population affected by water related disease,4403.0,2007.0,0.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",MUS
+Mauritius,480.0,Population affected by water related disease,4403.0,2012.0,0.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",MUS
+Mauritius,480.0,Population affected by water related disease,4403.0,2017.0,0.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",MUS
+Mauritius,480.0,Population affected by water related disease,4403.0,2018.0,0.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",MUS
+Nicaragua,558.0,Population affected by water related disease,4403.0,1997.0,254.1666666667,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",NIC
+Nicaragua,558.0,Population affected by water related disease,4403.0,2002.0,234.0833333333,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",NIC
+Nicaragua,558.0,Population affected by water related disease,4403.0,2007.0,214.0,-,-,6466.0,· 1000 inhabitants,"(2003, 2007)",NIC
+Nicaragua,558.0,Population affected by water related disease,4403.0,2012.0,214.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",NIC
+Nicaragua,558.0,Population affected by water related disease,4403.0,2017.0,214.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",NIC
+Nicaragua,558.0,Population affected by water related disease,4403.0,2018.0,214.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",NIC
+Niger,562.0,Population affected by water related disease,4403.0,2012.0,3143.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",NER
+Niger,562.0,Population affected by water related disease,4403.0,2017.0,3143.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",NER
+Niger,562.0,Population affected by water related disease,4403.0,2018.0,3143.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",NER
+Panama,591.0,Population affected by water related disease,4403.0,2012.0,313.7,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",PAN
+Panama,591.0,Population affected by water related disease,4403.0,2017.0,313.7,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",PAN
+Panama,591.0,Population affected by water related disease,4403.0,2018.0,313.7,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",PAN
+Peru,604.0,Population affected by water related disease,4403.0,1997.0,600.2,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",PER
+Peru,604.0,Population affected by water related disease,4403.0,2002.0,600.2,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",PER
+Peru,604.0,Population affected by water related disease,4403.0,2007.0,600.2,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",PER
+Peru,604.0,Population affected by water related disease,4403.0,2012.0,600.2,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",PER
+Peru,604.0,Population affected by water related disease,4403.0,2017.0,600.2,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",PER
+Peru,604.0,Population affected by water related disease,4403.0,2018.0,600.2,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",PER
+Philippines,608.0,Population affected by water related disease,4403.0,2002.0,866.4,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",PHL
+Philippines,608.0,Population affected by water related disease,4403.0,2007.0,866.4,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",PHL
+Philippines,608.0,Population affected by water related disease,4403.0,2012.0,866.4,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",PHL
+Philippines,608.0,Population affected by water related disease,4403.0,2017.0,866.4,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",PHL
+Philippines,608.0,Population affected by water related disease,4403.0,2018.0,866.4,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",PHL
+Sri Lanka,144.0,Population affected by water related disease,4403.0,1997.0,120.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",LKA
+Sri Lanka,144.0,Population affected by water related disease,4403.0,2002.0,120.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",LKA
+Sri Lanka,144.0,Population affected by water related disease,4403.0,2007.0,120.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",LKA
+Sri Lanka,144.0,Population affected by water related disease,4403.0,2012.0,120.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",LKA
+Sri Lanka,144.0,Population affected by water related disease,4403.0,2017.0,120.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",LKA
+Sri Lanka,144.0,Population affected by water related disease,4403.0,2018.0,120.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",LKA
+Thailand,764.0,Population affected by water related disease,4403.0,1997.0,960.0,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",THA
+Thailand,764.0,Population affected by water related disease,4403.0,2002.0,960.0,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",THA
+Thailand,764.0,Population affected by water related disease,4403.0,2007.0,960.0,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",THA
+Thailand,764.0,Population affected by water related disease,4403.0,2012.0,960.0,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",THA
+Thailand,764.0,Population affected by water related disease,4403.0,2017.0,960.0,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",THA
+Thailand,764.0,Population affected by water related disease,4403.0,2018.0,960.0,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",THA
+Turkmenistan,795.0,Population affected by water related disease,4403.0,2007.0,12.29,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",TKM
+Turkmenistan,795.0,Population affected by water related disease,4403.0,2012.0,12.29,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",TKM
+Turkmenistan,795.0,Population affected by water related disease,4403.0,2017.0,12.29,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",TKM
+Turkmenistan,795.0,Population affected by water related disease,4403.0,2018.0,12.29,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",TKM
+Uzbekistan,860.0,Population affected by water related disease,4403.0,1997.0,271.8,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",UZB
+Uzbekistan,860.0,Population affected by water related disease,4403.0,2002.0,271.8,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",UZB
+Uzbekistan,860.0,Population affected by water related disease,4403.0,2007.0,271.8,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",UZB
+Uzbekistan,860.0,Population affected by water related disease,4403.0,2012.0,271.8,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",UZB
+Uzbekistan,860.0,Population affected by water related disease,4403.0,2017.0,271.8,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",UZB
+Uzbekistan,860.0,Population affected by water related disease,4403.0,2018.0,271.8,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",UZB
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,1997.0,22.06,I,-,0.0,· 1000 inhabitants,"(1993, 1997)",VEN
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,2002.0,22.06,I,-,0.0,· 1000 inhabitants,"(1998, 2002)",VEN
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,2007.0,22.06,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",VEN
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,2012.0,22.06,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",VEN
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,2017.0,22.06,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",VEN
+Venezuela (Bolivarian Republic of),862.0,Population affected by water related disease,4403.0,2018.0,22.06,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",VEN
+Viet Nam,704.0,Population affected by water related disease,4403.0,2007.0,177.6,I,-,0.0,· 1000 inhabitants,"(2003, 2007)",VNM
+Viet Nam,704.0,Population affected by water related disease,4403.0,2012.0,177.6,I,-,0.0,· 1000 inhabitants,"(2008, 2012)",VNM
+Viet Nam,704.0,Population affected by water related disease,4403.0,2017.0,177.6,I,-,0.0,· 1000 inhabitants,"(2013, 2017)",VNM
+Viet Nam,704.0,Population affected by water related disease,4403.0,2018.0,177.6,I,-,0.0,· 1000 inhabitants,"(2018, 2022)",VNM
